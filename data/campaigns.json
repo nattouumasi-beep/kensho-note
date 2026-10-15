@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-15T19:48:59+09:00",
+  "generated_at": "2026-10-15T19:57:22+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
+    {
+      "id": "rss-3c09b05296e108374d",
+      "title": "雑誌『家電批評』読者プレゼント応募ページです✨アンケートに答えて豪華プレゼントを当てよう！ - 360LiFE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUXNZUUhMRXN3dS1kZFJNZUljMjVKMEVXbzVYdUpCOHZ3YzFfSXpHSWh0TXlrUUo5YTFBU2k3ZHlXemJiYWNuWjNoc2NBV2UyV1hmOUU4bTVZdzB4?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 115,
+      "registration": "未確認（応募先で確認）",
+      "method": "form",
+      "deadline": null,
+      "createdAt": "2026-10-03",
+      "source": "Google ニュース"
+    },
     {
       "id": "rss-34a4ba9752a60f7e49",
       "title": "Switch 2、テプラ、ディズニーギフトカードなどがあたる！ 当選者50名以上の「ねとらぼ大型プレゼントキャンペーン」実施中！【11月15日まで】 | ねとらぼ - ねとらぼ",
@@ -10,6 +23,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -22,6 +36,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -34,6 +49,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -46,6 +62,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -58,6 +75,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -70,6 +88,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-07",
       "source": "Google ニュース"
@@ -82,6 +101,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-07",
       "source": "Google ニュース"
@@ -94,6 +114,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-03",
       "source": "Google ニュース"
@@ -106,6 +127,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-02",
       "source": "Google ニュース"
@@ -118,6 +140,7 @@
       "category": "ギフト券",
       "priority": 105,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-02",
       "source": "Google ニュース"
@@ -130,18 +153,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-a1673f95e67d38b9eb",
-      "title": "エースコック「ミッフィー保冷・保温バッグ」プレゼントキャンペーン実施。対象商品の応募マーク25枚で絶対もらえる - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ZkttZ2pVSkRUVnpGbzBNd0N2RlU2c0ZNNmtPeTRieFhIcjREZ2x5ZTVuUktMQV84LVcyOUdidE1XSVFDdXpPSTlHaWgxWU80UnJ0dEo2VEpLb2w3ZFRZ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -154,6 +166,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -166,6 +179,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -178,6 +192,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -190,6 +205,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -202,6 +218,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -214,6 +231,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -226,6 +244,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -240,7 +259,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-14",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-b68a4db41ea2aeda55",
@@ -250,6 +270,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -262,6 +283,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -274,6 +296,7 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -286,32 +309,9 @@
       "category": "家電・デジタル",
       "priority": 100,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-08",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-3c09b05296e108374d",
-      "title": "雑誌『家電批評』読者プレゼント応募ページです✨アンケートに答えて豪華プレゼントを当てよう！ - 360LiFE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tUXNZUUhMRXN3dS1kZFJNZUljMjVKMEVXbzVYdUpCOHZ3YzFfSXpHSWh0TXlrUUo5YTFBU2k3ZHlXemJiYWNuWjNoc2NBV2UyV1hmOUU4bTVZdzB4?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-03",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-b6040b2b80c62dea80",
-      "title": "エースコック「ミッフィー保冷・保温バッグ」プレゼントキャンペーン実施。対象商品の応募マーク25枚で絶対もらえる - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN2VrQ1djTjZ4Y2tBc01vZmJNcHhCdHctSjN0ZUtINURTX25uaGl5cUY2V1pkWVVTWU5BbWwybWpVVXZwYUUxMll2aWVjcXY4SDFIOURmaVM5NXJHRWVhT3BoeERpcFJ2N1E?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
       "source": "Google ニュース"
     },
     {
@@ -322,32 +322,9 @@
       "category": "食品・飲料",
       "priority": 95,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-8d739ca35d3155ed69",
-      "title": "三井住友カード、ハローキティ デザインの新規入会キャンペーン実施！「ぬいぐるみチャーム」のプレゼントも - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KV1R4R0RlSWpuR2pWRGViZjBlMDQyNkExVnV4RG00Q3k5V2pFWTQyN1Fwa1A5cTd3eVo2cWkzak1wLWhNYklLbmpDTEdNMGRYUGJ1bUU3UFYwSmplU3M0eF9YSGxrR2V3N0E?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-518649dbd03f0ecbcd",
-      "title": "鍛高譚(たんたかたん)シリーズのお茶割りの味わいが手軽に楽しめる「鍛茶(たんちゃ)缶」が当たる！ Instagram限定「鍛茶缶プレゼントキャンペーン！」を実施 - オエノングループ",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oaUdxMHJYTUxMWEM3c2ZvWG8zYkZpbUQxREZyZktDdWNrbnUtZGtEUFc4czZLMjFGQ0RROEhDRUdkN3pwMHpVbmFWQTg2M3NRc3R0dA?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
       "source": "Google ニュース"
     },
     {
@@ -358,6 +335,7 @@
       "category": "食品・飲料",
       "priority": 95,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -370,56 +348,9 @@
       "category": "ゲーム・ホビー",
       "priority": 90,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-fc747e1576b606e37d",
-      "title": "えらべるPay最大10,000円分などがフォロー&リポストで合計1,006名にその場で当たる。",
-      "url": "https://gekiyasu-lab.net/esnovel-2110626850385072305/",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 87,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "激安らぼ"
-    },
-    {
-      "id": "rss-affca070ffae886d77",
-      "title": "【2年連続 総合1位獲得記念 第2弾】宅配クリーニングのリナビス、Amazonギフトカード総額5万円分が当たるフォロー＆リポストキャンペーンを開催！ - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uam0weEluM01aYVkzeTB1R2w5MEFXMXVUVFFSUEEzdG9PcXFQVlBrVnNvTUtGN3hJbk5uUEpucTlJTFhvRzBDNWlSV1c5ejgwTkVGRkhwRndETHhPaVJmenJ2NmZIRXpsQVEwUFBQS2tpdw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 87,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-06",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-f3d001e49d85c5f2fb",
-      "title": "Amazonギフトカードが当たる！新作ブラウザゲーム『カオス★スマッシュ』公式Xフォロー＆リポストキャンペーンを10月14日（水）まで開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SVE1aXczTDNMdUFRZlR0aUp5ZTIyRlFHajgxX0kwUmRxRmljZm44M3hBandFd0w1d2ZoSWNuMnJLSThFeDFPV1NfTFdBZGpMbF9lRTlkZDZIeXBCSTlRQUFZclRDNTdmdWc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 87,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-03",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-881d4e8603acb75f8f",
-      "title": "Amazonギフトカードが当たる！新作ブラウザゲーム『カオス★スマッシュ』公式Xフォロー＆リポストキャンペーンを10月14日（水）まで開催 - Excite エキサイト",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WU09oTnR2UTVCdFRRUzRUa1paUjVreEJDTTh4UzhZeWlOU1d1UDctSUtBa3JhYTAyM0d2MmRXOEM0a0R2ZnNtX1VXTW9MVU4zRUVUdEJBSTUxOEVKcjdfd3hzdVUwOGExWTVMeWZZOVVaOVd1?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 87,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-03",
       "source": "Google ニュース"
     },
     {
@@ -430,6 +361,7 @@
       "category": "日用品",
       "priority": 85,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -442,8 +374,100 @@
       "category": "日用品",
       "priority": 85,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-a1673f95e67d38b9eb",
+      "title": "エースコック「ミッフィー保冷・保温バッグ」プレゼントキャンペーン実施。対象商品の応募マーク25枚で絶対もらえる - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ZkttZ2pVSkRUVnpGbzBNd0N2RlU2c0ZNNmtPeTRieFhIcjREZ2x5ZTVuUktMQV84LVcyOUdidE1XSVFDdXpPSTlHaWgxWU80UnJ0dEo2VEpLb2w3ZFRZ?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 75,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-fc747e1576b606e37d",
+      "title": "えらべるPay最大10,000円分などがフォロー&リポストで合計1,006名にその場で当たる。",
+      "url": "https://gekiyasu-lab.net/esnovel-2110626850385072305/",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "激安らぼ"
+    },
+    {
+      "id": "rss-b6040b2b80c62dea80",
+      "title": "エースコック「ミッフィー保冷・保温バッグ」プレゼントキャンペーン実施。対象商品の応募マーク25枚で絶対もらえる - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqN2VrQ1djTjZ4Y2tBc01vZmJNcHhCdHctSjN0ZUtINURTX25uaGl5cUY2V1pkWVVTWU5BbWwybWpVVXZwYUUxMll2aWVjcXY4SDFIOURmaVM5NXJHRWVhT3BoeERpcFJ2N1E?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-8d739ca35d3155ed69",
+      "title": "三井住友カード、ハローキティ デザインの新規入会キャンペーン実施！「ぬいぐるみチャーム」のプレゼントも - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KV1R4R0RlSWpuR2pWRGViZjBlMDQyNkExVnV4RG00Q3k5V2pFWTQyN1Fwa1A5cTd3eVo2cWkzak1wLWhNYklLbmpDTEdNMGRYUGJ1bUU3UFYwSmplU3M0eF9YSGxrR2V3N0E?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-affca070ffae886d77",
+      "title": "【2年連続 総合1位獲得記念 第2弾】宅配クリーニングのリナビス、Amazonギフトカード総額5万円分が当たるフォロー＆リポストキャンペーンを開催！ - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uam0weEluM01aYVkzeTB1R2w5MEFXMXVUVFFSUEEzdG9PcXFQVlBrVnNvTUtGN3hJbk5uUEpucTlJTFhvRzBDNWlSV1c5ejgwTkVGRkhwRndETHhPaVJmenJ2NmZIRXpsQVEwUFBQS2tpdw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-06",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-f3d001e49d85c5f2fb",
+      "title": "Amazonギフトカードが当たる！新作ブラウザゲーム『カオス★スマッシュ』公式Xフォロー＆リポストキャンペーンを10月14日（水）まで開催 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12SVE1aXczTDNMdUFRZlR0aUp5ZTIyRlFHajgxX0kwUmRxRmljZm44M3hBandFd0w1d2ZoSWNuMnJLSThFeDFPV1NfTFdBZGpMbF9lRTlkZDZIeXBCSTlRQUFZclRDNTdmdWc?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-03",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-881d4e8603acb75f8f",
+      "title": "Amazonギフトカードが当たる！新作ブラウザゲーム『カオス★スマッシュ』公式Xフォロー＆リポストキャンペーンを10月14日（水）まで開催 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WU09oTnR2UTVCdFRRUzRUa1paUjVreEJDTTh4UzhZeWlOU1d1UDctSUtBa3JhYTAyM0d2MmRXOEM0a0R2ZnNtX1VXTW9MVU4zRUVUdEJBSTUxOEVKcjdfd3hzdVUwOGExWTVMeWZZOVVaOVd1?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 70,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-03",
       "source": "Google ニュース"
     },
     {
@@ -452,8 +476,9 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93STFIemJnRmlpRWplSzdQR0tsdXowYmgxdTAzd0ZIbTRId3VWWTQxODJYdGxUUTV2VEhYTUt0T0ZPb25mUHE0SmY2b3pKZ2J4MHFreXA2ZlZNcGcwYXYyd1JMZFcwMGFUaWc?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
-      "priority": 77,
+      "priority": 60,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -464,10 +489,24 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQW0zNjB2NGt6LWVBUjJpaDVoV3UtcTlZRFhGZ3FOalRNdjB6VEdqaDBZbjh3eDItanFZeTFKSWpXNUtobHpRdUlNTkt1d0FxTTZzM29SRDh4MEdQek5yYldNeV9FWk8xanFST1BJQ2xmQVd1aVUzQ0hKRTdtQ2xRN0J0dFNLaFhu?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
-      "priority": 77,
+      "priority": 60,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-518649dbd03f0ecbcd",
+      "title": "鍛高譚(たんたかたん)シリーズのお茶割りの味わいが手軽に楽しめる「鍛茶(たんちゃ)缶」が当たる！ Instagram限定「鍛茶缶プレゼントキャンペーン！」を実施 - オエノングループ",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oaUdxMHJYTUxMWEM3c2ZvWG8zYkZpbUQxREZyZktDdWNrbnUtZGtEUFc4czZLMjFGQ0RROEhDRUdkN3pwMHpVbmFWQTg2M3NRc3R0dA?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 60,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
       "source": "Google ニュース"
     },
     {
@@ -478,6 +517,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "激安らぼ"
@@ -490,6 +530,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -502,6 +543,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -514,6 +556,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -526,6 +569,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -538,6 +582,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -550,18 +595,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-ee6f8c93330cb2ec6c",
-      "title": "「ヨハクト」公式Xにて秋コーデプレゼントキャンペーンを実施！N＋の注目商品を抽選で5名様にプレゼント - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTG94LWVKQzl1cVNtREZsTVF2MWw4NTZRU0dTdWhzZFFUSEtuWS13LTlQY1E5NmhaYUhWZ2EwcHc4cFBfRm5wMzRzSXUtT3NsWkt4RGxoVThUc2VxbFhTNHZibVdSd0hSakE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -574,18 +608,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-d65d3258be849ea8cf",
-      "title": "「ヨハクト」公式Xにて秋コーデプレゼントキャンペーンを実施！N＋の注目商品を抽選で5名様にプレゼント - 繊研新聞",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmdqaXZuRFJRY2tacTQwZUJsSWxmQlExZDdaeUh0dlBqZnlsM3lSS3ozWHZFdE1hc1U3cElfOXFteEdRTnpzcXRhQkItaENxelpaek9Lb3k2a3MzZXdrVUc2WFl3RzZrU0NlLWZlaDROV1BES3NOb2h2OTFNdXV4LXBjM25lTHNScFg4SWZXYTAzTkhaNWJ3RFhiYXYtVTM4WlE3REQtdV9nQUJYMXc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -598,6 +621,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -610,6 +634,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -622,6 +647,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -634,6 +660,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -646,18 +673,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-85a22133da509f8f32",
-      "title": "ヨハクト公式Xにて、秋コーデプレゼントキャンペーン実施！抽選で5名様にN＋の注目商品をプレゼント！ - スポーツ報知",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51d2EwQ0lzSWJtVzlzc1NkQzJPN25CdEIwZ055eWVxZnVLMGtiNVlJT2piQUo3WHN2dmgwdU9ZNUw0YjRocHZ0YlEzazJKZkM5bVVxdTFEbEktQXhtZWZZa0s3bmhPdGRBOWdXUmpueG55NUVL?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -670,6 +686,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -682,6 +699,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -694,18 +712,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-19b7bef1bf2bba7ddc",
-      "title": "PDN、Paradigm「PERSONA」「Founder」購入者へ特製ジャンパーケーブルをプレゼント。限定カラーの試聴キャンペーンも - PHILE WEB",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KZlBLTEdnNFBxSzB5REVtOVVTZ01ZMFpZOTFDakFfcGpVNHBlRTZZTFBNR3Etb3RtUWdoRnN1TnRpQWdlOTVQUDRSQk95WDEyM1NOZlJZcjZVYU02UWgwLVN4TFAtSUU?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -718,18 +725,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-a6a3ed6443c14c97af",
-      "title": "「Galaxy Z Fold8」シリーズ新規購入者にLINEマンガコインをプレゼントするキャンペーン - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjclRGS2dVY2FvN29oekNObm5HcEdmVnZXdkFVLUgwcEdxdlJHZVZpVndUSUg3ZDd2Q1pwV1otSHplSEdJQWxqX2FKbXpraEpWQml4UjJua0s4ODVH?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -742,6 +738,20 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-91f1b5d65b4200f002",
+      "title": "【総勢13名から推薦コメントが到着 & Filmarks限定ノートが当たるプレゼントキャンペーン開催決定】 公開40周年『ブレックファスト・クラブ』4K 10月16日（金）より全国上映！ - au Webポータル",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41OHVpd3VVdEFTeWxuZEhQQjctei04RDNJdkdfcHV2QUFBaFBxVzRHT0lpTThVczBsZTVoOF9GR2czWndUWjFadjVERk5IaG1jS3VKZXdiVV94U1M3cnhDNm5XSkJ0VzhwVmIzeDhnRjh1SW92NXFUZA?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 20,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -754,6 +764,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -766,18 +777,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-b013fe01b0dc3096be",
-      "title": "写真・図版（1枚目）| 応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - AERA DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QT0hkLW9GbEhNSnFoUlN4VEhKNThVVmlvcTJ2eVlJQUFRZ185VGh2X0FWaTdxUGNQaE83bVZZMzl5d3FoTWw1LWxhSWwzWnUtYmxzVjNB?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -790,6 +790,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -802,6 +803,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -816,7 +818,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-970ee7097c99995a48",
@@ -828,7 +831,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-dc9a3e61a599bbe46f",
@@ -840,7 +844,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-19c4123fcda6229079",
@@ -852,7 +857,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-9dd4bf77ed1c318417",
@@ -864,7 +870,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-33da68df876709dcf7",
@@ -876,7 +883,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-03984e2442c16a416c",
@@ -888,7 +896,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-e047a9406971e53afd",
@@ -900,7 +909,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
-      "source": "PR TIMES"
+      "source": "PR TIMES",
+      "method": "unknown"
     },
     {
       "id": "rss-5fdd1cdac51e3aab3e",
@@ -910,18 +920,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-554967e430dad6e417",
-      "title": "応募マーク25枚集めてもらえる！ ミッフィーバッグプレゼントキャンペーン - エースコック株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13c19UQm5KNXh0MG8xRmR6ekRrY3o3S3cxMU0ya091MWhmUGpsei11a2ZyZ0hzdzVmUlZ0VEJTSkRWd1VWSnVaajBJUEdoUk0?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -934,6 +933,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -946,6 +946,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -958,6 +959,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -970,6 +972,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -982,18 +985,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-65d1aab6ac6ca79d4b",
-      "title": "三井ショッピングパークポイントLINE公式アカウント友だちプレゼントキャンペーン - Koubo",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yZ3ZHWnRBOXctVUpUblc4V0NBUTZMR1B4dUpNeTI4ZnpLZkozd2loMnZ1emFGY0h3TVRhWVEyWmNpVldTR0E?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1006,6 +998,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1018,18 +1011,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-82b4b0fd0815c42c7f",
-      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XWkNtakpKTmNPcERSZHB3emF0SGE2dk15VHhGMHMwMFFpbng5Y19Fb3BRcG1BZHZxMXAzamhpR2FEM3NHME1hSWF0a05PNXFlVTJEMnhYNlV6TkxmcWFYYlFtUDNZYlZsdWNDaXRzbkJpdw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1042,18 +1024,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-de5e71780c34210c65",
-      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - MANTANWEB",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTDI0a1czeF9STTR1aEtzc3A1MVJBMEhreTlSTm9MWlB6bHlSajNPc0s4MFAzVTNsTmVEQ2RiS1h3UnY0X1JqZEcyOXU1cFgwS1dMalF3YldlT0xrMGtEdG1Ka0NpRGljQ1BwdHJHT0tOWjNkRmc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1066,30 +1037,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-cbab39549d5fec3a4b",
-      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - AERA DIGITAL",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5STUY1OEFjbjN2TVFtZjZkTW5fT1ZFeUVrTjlHRHVCS3Bvdml3VEYzYVpTX0QzTGt2cXBnRkZUWFFDRjIwRThsR0FrcWNBampqeUdpSVM5Q05Vdw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-14",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-63e1af706ffa90b1e2",
-      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - インサイド",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qakd5WGtoMFlLcVdZUEdIcVVtbl92WjF1bi1Wa2hBTHBkUEQtaGcyS0ZLRGd1VUJpYXR0WWhmTDZaR2lSWFRZdHh5UTRTZEVqbzNlbG91RV9yWEFBUGhIOG1RWG0yNFZJM0xDNFNQdWgtUQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1102,6 +1050,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1114,6 +1063,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1126,6 +1076,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1138,6 +1089,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1150,6 +1102,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
       "source": "Google ニュース"
@@ -1164,7 +1117,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-14",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-3f62029410bf4f9592",
@@ -1174,6 +1128,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1186,6 +1141,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1198,6 +1154,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1210,6 +1167,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1222,6 +1180,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1234,6 +1193,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1246,6 +1206,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1258,18 +1219,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-7f577b02cbe9bf99ca",
-      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xLXJsRFBDQkhUcGgwVG14UTROSjZaLVdqUk5TVEVZYU1hWkhmZm5pakFHWThtQzhMc3l1TExwUHBMOXpJaE95Nk1GR2w2ZHNGRkVvOUtWY0VEMjFmMWlCWmVUZXJZRE9XS0E?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1282,6 +1232,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1294,30 +1245,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-82abf6e1cf89f872af",
-      "title": "富士山麓の日帰り温泉「富士眺望の湯ゆらり」10/13(火)より秋限定メニュー販売開始＆富士観光開発マスコットキャラクター「ふじっピ」公式Xにてペア招待券プレゼントキャンペーンも実施！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWmRUTERYZkM4Slh1QlpNMTM3SjN0cXc1SmZsZVZrbnJuRkhBZGlpbTJIOHhzWEVWSV9MTXdEU0ZCcldZR3pfUnA3eG9lamVsTi1GcFhlMERENTlfZERlTGxQbTJzdkZfMXc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-b1e724afaa4855bf3f",
-      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。｜Infoseekニュース - Infoseek",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iXzlhR0hMY2RmczA2WVJvcTRMbWFVTjlBMkc3d2N4ai1mcVFPNHZueTNDYzg5MV80WGxhOWZOYUFBWVZMcEl0Q0NHb0dKM3J5UmFTVGRRY3ZsTTgyNWstd2dsb3FXdTBDWjg4YXh2TVVQQQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1330,30 +1258,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-6331cbb6cca7ae1db9",
-      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。 - MANTANWEB",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSExEMURCakJfQmhBR1VmeTh3bkZZeXJNNUZNRHliOFV2YnVkZmlVX2VEQjE2ZFYyU1NzMzZ6XzBVa0RyWDQ3NGlyeWczY0ltSC1BQTBrZi1FaHhQemJ1dEZ2THdFTy0wQ1NWcFcwSlcyRzN3NWJ0SUNfU1pSeUlQTl8yRDY3OHJ3?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-13",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-78b3f2d0103b9fc1e3",
-      "title": "【9月1日は防災の日】災害時に命をつなぐ備蓄水に最適な富士山の天然水「ふじざくら命水」プレゼントキャンペーンをX(旧Twitter)で2026年8月24日（月）～9月6日（日）に開催！ - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Z0ZpTXIwekZsTWlfRTJCOUpVdU9GRm8wN2s3bjN0eTBnNWZ3dzBzLUJQS1VTWTQ1c2syMDMybWpPVVVLR21tOHNhZm5xUzFWTVN5NmZRQzBXXzg?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1366,6 +1271,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-13",
       "source": "Google ニュース"
@@ -1378,6 +1284,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1390,6 +1297,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1402,6 +1310,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1414,6 +1323,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1426,6 +1336,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1438,6 +1349,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1450,6 +1362,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1462,6 +1375,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1474,6 +1388,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-12",
       "source": "Google ニュース"
@@ -1486,6 +1401,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1498,6 +1414,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1510,6 +1427,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1522,6 +1440,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1534,6 +1453,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1546,6 +1466,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1558,6 +1479,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1570,6 +1492,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1582,6 +1505,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1594,6 +1518,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1606,6 +1531,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -1620,7 +1546,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-11",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-bafeed75cde527d6e6",
@@ -1632,7 +1559,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-11",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-52ecdf7a1b972983b9",
@@ -1642,6 +1570,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1654,6 +1583,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1666,6 +1596,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1678,6 +1609,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1690,6 +1622,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1702,6 +1635,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-10",
       "source": "Google ニュース"
@@ -1714,6 +1648,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1726,6 +1661,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1738,6 +1674,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1750,6 +1687,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1762,6 +1700,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1774,6 +1713,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1786,6 +1726,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1798,6 +1739,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1810,6 +1752,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1822,6 +1765,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1834,6 +1778,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1846,6 +1791,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
       "source": "Google ニュース"
@@ -1860,7 +1806,8 @@
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-09",
-      "source": "Google ニュース"
+      "source": "Google ニュース",
+      "method": "unknown"
     },
     {
       "id": "rss-c0f2b040d8e16bc185",
@@ -1870,6 +1817,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -1882,6 +1830,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -1894,6 +1843,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-07",
       "source": "Google ニュース"
@@ -1906,6 +1856,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-06",
       "source": "Google ニュース"
@@ -1918,6 +1869,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-06",
       "source": "Google ニュース"
@@ -1930,6 +1882,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-06",
       "source": "Google ニュース"
@@ -1942,6 +1895,7 @@
       "category": "その他",
       "priority": 20,
       "registration": "未確認（応募先で確認）",
+      "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-04",
       "source": "Google ニュース"
@@ -1952,11 +1906,38 @@
       "url": "https://gekiyasu-lab.net/seims-1993998295400894897/",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "激安らぼ"
+    },
+    {
+      "id": "rss-ee6f8c93330cb2ec6c",
+      "title": "「ヨハクト」公式Xにて秋コーデプレゼントキャンペーンを実施！N＋の注目商品を抽選で5名様にプレゼント - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uTG94LWVKQzl1cVNtREZsTVF2MWw4NTZRU0dTdWhzZFFUSEtuWS13LTlQY1E5NmhaYUhWZ2EwcHc4cFBfRm5wMzRzSXUtT3NsWkt4RGxoVThUc2VxbFhTNHZibVdSd0hSakE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-d65d3258be849ea8cf",
+      "title": "「ヨハクト」公式Xにて秋コーデプレゼントキャンペーンを実施！N＋の注目商品を抽選で5名様にプレゼント - 繊研新聞",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMmdqaXZuRFJRY2tacTQwZUJsSWxmQlExZDdaeUh0dlBqZnlsM3lSS3ozWHZFdE1hc1U3cElfOXFteEdRTnpzcXRhQkItaENxelpaek9Lb3k2a3MzZXdrVUc2WFl3RzZrU0NlLWZlaDROV1BES3NOb2h2OTFNdXV4LXBjM25lTHNScFg4SWZXYTAzTkhaNWJ3RFhiYXYtVTM4WlE3REQtdV9nQUJYMXc?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
     },
     {
       "id": "rss-5ef2995d013afd5ce6",
@@ -1964,8 +1945,22 @@
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96LU1HMkVDaUNxMGswcmlVdDBLbDBYY3hVUm96azB0RXdvR3JsaVFUbHVNRWJwQ2lWT3hzVld2T1lwTVl1Yko2TmI0RmYtdzFHTkRrd24tZXM?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-85a22133da509f8f32",
+      "title": "ヨハクト公式Xにて、秋コーデプレゼントキャンペーン実施！抽選で5名様にN＋の注目商品をプレゼント！ - スポーツ報知",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51d2EwQ0lzSWJtVzlzc1NkQzJPN25CdEIwZ055eWVxZnVLMGtiNVlJT2piQUo3WHN2dmgwdU9ZNUw0YjRocHZ0YlEzazJKZkM5bVVxdTFEbEktQXhtZWZZa0s3bmhPdGRBOWdXUmpueG55NUVL?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-15",
       "source": "Google ニュース"
@@ -1976,10 +1971,193 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9Xc0Y1QVljZkFKeW8tZWtqR0JSZWY0M1FraTA0TDhlLWoybWNMZUpITmMzZG9GV3ZPOWkzVDNDcnFqaWc?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-19b7bef1bf2bba7ddc",
+      "title": "PDN、Paradigm「PERSONA」「Founder」購入者へ特製ジャンパーケーブルをプレゼント。限定カラーの試聴キャンペーンも - PHILE WEB",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KZlBLTEdnNFBxSzB5REVtOVVTZ01ZMFpZOTFDakFfcGpVNHBlRTZZTFBNR3Etb3RtUWdoRnN1TnRpQWdlOTVQUDRSQk95WDEyM1NOZlJZcjZVYU02UWgwLVN4TFAtSUU?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-a6a3ed6443c14c97af",
+      "title": "「Galaxy Z Fold8」シリーズ新規購入者にLINEマンガコインをプレゼントするキャンペーン - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjclRGS2dVY2FvN29oekNObm5HcEdmVnZXdkFVLUgwcEdxdlJHZVZpVndUSUg3ZDd2Q1pwV1otSHplSEdJQWxqX2FKbXpraEpWQml4UjJua0s4ODVH?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-b013fe01b0dc3096be",
+      "title": "写真・図版（1枚目）| 応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QT0hkLW9GbEhNSnFoUlN4VEhKNThVVmlvcTJ2eVlJQUFRZ185VGh2X0FWaTdxUGNQaE83bVZZMzl5d3FoTWw1LWxhSWwzWnUtYmxzVjNB?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
       "deadline": null,
       "createdAt": "2026-10-15",
+      "source": "Google ニュース",
+      "method": "other"
+    },
+    {
+      "id": "rss-554967e430dad6e417",
+      "title": "応募マーク25枚集めてもらえる！ ミッフィーバッグプレゼントキャンペーン - エースコック株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13c19UQm5KNXh0MG8xRmR6ekRrY3o3S3cxMU0ya091MWhmUGpsei11a2ZyZ0hzdzVmUlZ0VEJTSkRWd1VWSnVaajBJUEdoUk0?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-65d1aab6ac6ca79d4b",
+      "title": "三井ショッピングパークポイントLINE公式アカウント友だちプレゼントキャンペーン - Koubo",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yZ3ZHWnRBOXctVUpUblc4V0NBUTZMR1B4dUpNeTI4ZnpLZkozd2loMnZ1emFGY0h3TVRhWVEyWmNpVldTR0E?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-82b4b0fd0815c42c7f",
+      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XWkNtakpKTmNPcERSZHB3emF0SGE2dk15VHhGMHMwMFFpbng5Y19Fb3BRcG1BZHZxMXAzamhpR2FEM3NHME1hSWF0a05PNXFlVTJEMnhYNlV6TkxmcWFYYlFtUDNZYlZsdWNDaXRzbkJpdw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-de5e71780c34210c65",
+      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTDI0a1czeF9STTR1aEtzc3A1MVJBMEhreTlSTm9MWlB6bHlSajNPc0s4MFAzVTNsTmVEQ2RiS1h3UnY0X1JqZEcyOXU1cFgwS1dMalF3YldlT0xrMGtEdG1Ka0NpRGljQ1BwdHJHT0tOWjNkRmc?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-cbab39549d5fec3a4b",
+      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - AERA DIGITAL",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5STUY1OEFjbjN2TVFtZjZkTW5fT1ZFeUVrTjlHRHVCS3Bvdml3VEYzYVpTX0QzTGt2cXBnRkZUWFFDRjIwRThsR0FrcWNBampqeUdpSVM5Q05Vdw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-63e1af706ffa90b1e2",
+      "title": "応募マーク25枚集めて絶対もらえる！ミッフィーバッグプレゼントキャンペーン - インサイド",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qakd5WGtoMFlLcVdZUEdIcVVtbl92WjF1bi1Wa2hBTHBkUEQtaGcyS0ZLRGd1VUJpYXR0WWhmTDZaR2lSWFRZdHh5UTRTZEVqbzNlbG91RV9yWEFBUGhIOG1RWG0yNFZJM0xDNFNQdWgtUQ?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "other",
+      "deadline": null,
+      "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-7f577b02cbe9bf99ca",
+      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xLXJsRFBDQkhUcGgwVG14UTROSjZaLVdqUk5TVEVZYU1hWkhmZm5pakFHWThtQzhMc3l1TExwUHBMOXpJaE95Nk1GR2w2ZHNGRkVvOUtWY0VEMjFmMWlCWmVUZXJZRE9XS0E?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-82abf6e1cf89f872af",
+      "title": "富士山麓の日帰り温泉「富士眺望の湯ゆらり」10/13(火)より秋限定メニュー販売開始＆富士観光開発マスコットキャラクター「ふじっピ」公式Xにてペア招待券プレゼントキャンペーンも実施！ - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWmRUTERYZkM4Slh1QlpNMTM3SjN0cXc1SmZsZVZrbnJuRkhBZGlpbTJIOHhzWEVWSV9MTXdEU0ZCcldZR3pfUnA3eG9lamVsTi1GcFhlMERENTlfZERlTGxQbTJzdkZfMXc?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-b1e724afaa4855bf3f",
+      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。｜Infoseekニュース - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iXzlhR0hMY2RmczA2WVJvcTRMbWFVTjlBMkc3d2N4ai1mcVFPNHZueTNDYzg5MV80WGxhOWZOYUFBWVZMcEl0Q0NHb0dKM3J5UmFTVGRRY3ZsTTgyNWstd2dsb3FXdTBDWjg4YXh2TVVQQQ?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-6331cbb6cca7ae1db9",
+      "title": "「Mont Blanc CASSATA」がもらえる！Instagram・Xにて、プレゼントキャンペーン実施。 - MANTANWEB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSExEMURCakJfQmhBR1VmeTh3bkZZeXJNNUZNRHliOFV2YnVkZmlVX2VEQjE2ZFYyU1NzMzZ6XzBVa0RyWDQ3NGlyeWczY0ltSC1BQTBrZi1FaHhQemJ1dEZ2THdFTy0wQ1NWcFcwSlcyRzN3NWJ0SUNfU1pSeUlQTl8yRDY3OHJ3?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-78b3f2d0103b9fc1e3",
+      "title": "【9月1日は防災の日】災害時に命をつなぐ備蓄水に最適な富士山の天然水「ふじざくら命水」プレゼントキャンペーンをX(旧Twitter)で2026年8月24日（月）～9月6日（日）に開催！ - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1Z0ZpTXIwekZsTWlfRTJCOUpVdU9GRm8wN2s3bjN0eTBnNWZ3dzBzLUJQS1VTWTQ1c2syMDMybWpPVVVLR21tOHNhZm5xUzFWTVN5NmZRQzBXXzg?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 0,
+      "registration": "未確認（応募先で確認）",
+      "method": "sns",
+      "deadline": null,
+      "createdAt": "2026-10-13",
       "source": "Google ニュース"
     },
     {
@@ -1988,8 +2166,9 @@
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5hMGxHZDNBc3A4TVRuaVEta2d1S09JcUhLZmdoaUFvYXpzaWd3SVRJME05MkllWmRlZHBjLXdLRDhpa1E?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-11",
       "source": "Google ニュース"
@@ -2000,8 +2179,9 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaZEtZdkxIZHFvR0xIN0Q3em1iMkJGSnl5VmpZbXNOT0ZVcnZOQXVFSXppa1ZYUkQwdThmbUpYQnlNZ3dhUjFGcFNTRG0wN0RSWmVtTg?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -2012,8 +2192,9 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Wb2c3eUJHSWRpUjVKTVN4bXNWUmR0TExxZFJaMFV0RTlkVHBUMFc5Z2RBUklhRktSVEFEN0w2d3hURGZrVU4tWUlZYkpPSENZQ3ExQ2I1allqeXR5S2ZscnpSZVdKbWhvN3c?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
@@ -2024,8 +2205,9 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZU1ZwX0w1S0Q4Nm1KVG5WXzBkQ21oMDl4RE5jWlB0dDR3M2NvN2FtTVUwMXVCeDdpQ25yR3FtMmlXSTc4ckhQc1hwelZ6dFh0bGJDLW5vTmYzak9IQVpaNEtwY1RvdUZGYW56QmVhSTJNcHVVLXc?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
-      "priority": 2,
+      "priority": 0,
       "registration": "未確認（応募先で確認）",
+      "method": "sns",
       "deadline": null,
       "createdAt": "2026-10-08",
       "source": "Google ニュース"
