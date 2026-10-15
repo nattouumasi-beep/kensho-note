@@ -109,6 +109,8 @@ def main():
             link = allowed_link(text_of(item,"link"), source)
             if not link: continue
             date = parse_date(text_of(item,"date") or text_of(item,"pubDate") or text_of(item,"published"))
+            if seen <= 3:
+                print("RSS diagnostic",source,"title",repr(title[:60]),"signal",bool(SIGNAL.search(title)),"allowed",bool(link),"date",date)
             if not date or not now.date()-dt.timedelta(days=30) <= date <= now.date()+dt.timedelta(days=1): continue
             cat, score = classify(title)
             # Explicitly described signups are excluded; all remaining registrations are still UNVERIFIED.
