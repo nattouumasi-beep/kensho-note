@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-15T19:28:34+09:00",
-  "source": "Public PR TIMES and Google News RSS; candidates unverified",
+  "generated_at": "2026-10-15T19:29:21+09:00",
+  "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
+    {
+      "id": "rss-ed623618d0dd8b05a4",
+      "title": "直筆サイン入り複製原画が当たる！おどる先生『春のデジャヴに踊れ(2)』発売記念キャンペーン開催！【ホーリンラブブックス】",
+      "url": "https://prtimes.jp/main/html/rd/p/000001276.000005279.html",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 20,
+      "registration": "未確認（応募先で確認）",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "PR TIMES"
+    },
+    {
+      "id": "rss-970ee7097c99995a48",
+      "title": "ワタナベエンターテインメント新公式チケットサイト「WENTER（ウェンター）」10月15日オープン！アンガールズ、こたけ正義感、Aマッソら、ワタナベ芸人のサイン入りチェキプレゼントキャンペーンも実施中",
+      "url": "https://prtimes.jp/main/html/rd/p/000000010.000096292.html",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 20,
+      "registration": "未確認（応募先で確認）",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "PR TIMES"
+    },
+    {
+      "id": "rss-dc9a3e61a599bbe46f",
+      "title": "群馬県民の日（10月28日）限定企画山梨・石和温泉の宝石探し体験【SAGASO石和】が群馬県民へ感謝のプレゼント宝石探し体験者に天然ダイヤモンドを進呈",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000188147.html",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "その他",
+      "priority": 20,
+      "registration": "未確認（応募先で確認）",
+      "deadline": null,
+      "createdAt": "2026-10-15",
+      "source": "PR TIMES"
+    },
     {
       "id": "rss-9dd4bf77ed1c318417",
       "title": "【GUCCI】ヴィットリア・チェレッティが〔グッチ ジェットセット GGマーモント〕とともに、広告キャンペーンBeauty and The Bagの新たなビジュアルに登場",
@@ -42,42 +78,6 @@
       "id": "rss-e047a9406971e53afd",
       "title": "【ラグナロクオンライン】「秋を楽しむ旬の缶詰Getキャンペーン2026」開催！",
       "url": "https://prtimes.jp/main/html/rd/p/000002178.000025063.html",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "PR TIMES"
-    },
-    {
-      "id": "rss-ed623618d0dd8b05a4",
-      "title": "直筆サイン入り複製原画が当たる！おどる先生『春のデジャヴに踊れ(2)』発売記念キャンペーン開催！【ホーリンラブブックス】",
-      "url": "https://prtimes.jp/main/html/rd/p/000001276.000005279.html",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "PR TIMES"
-    },
-    {
-      "id": "rss-970ee7097c99995a48",
-      "title": "ワタナベエンターテインメント新公式チケットサイト「WENTER（ウェンター）」10月15日オープン！アンガールズ、こたけ正義感、Aマッソら、ワタナベ芸人のサイン入りチェキプレゼントキャンペーンも実施中",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000096292.html",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "その他",
-      "priority": 20,
-      "registration": "未確認（応募先で確認）",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "PR TIMES"
-    },
-    {
-      "id": "rss-dc9a3e61a599bbe46f",
-      "title": "群馬県民の日（10月28日）限定企画山梨・石和温泉の宝石探し体験【SAGASO石和】が群馬県民へ感謝のプレゼント宝石探し体験者に天然ダイヤモンドを進呈",
-      "url": "https://prtimes.jp/main/html/rd/p/000000003.000188147.html",
       "organizer": "案内記事（主催者は要確認）",
       "category": "その他",
       "priority": 20,
