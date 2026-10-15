@@ -57,7 +57,7 @@ def plain(s):
 def parse_date(s):
     try:
         date = (dt.datetime.fromisoformat(s.replace("Z", "+00:00"))
-                if re.match(r"^\\d{4}-\\d{2}-\\d{2}(?:T|$)", s) else parsedate_to_datetime(s))
+                if re.match(r"^\d{4}-\d{2}-\d{2}(?:T|$)", s) else parsedate_to_datetime(s))
         return date.replace(tzinfo=date.tzinfo or dt.timezone.utc).astimezone(JST).date()
     except (ValueError, TypeError, OverflowError):
         return None
