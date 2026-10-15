@@ -20,10 +20,10 @@ OUT = Path(__file__).resolve().parents[1] / "data/campaigns.json"
 JST = dt.timezone(dt.timedelta(hours=9))
 PR_TIMES = "https://prtimes.jp/index.rdf"
 QUERIES = (
-    "食品 プレゼントキャンペーン 当たる when:14d",
-    "家電 ギフト券 抽選 プレゼント when:14d",
-    "日用品 無料 懸賞 プレゼント when:14d",
-    "ゲーム機 PC周辺機器 プレゼント 応募 when:14d",
+    "懸賞 when:7d",
+    "プレゼントキャンペーン when:7d",
+    "ギフト券 抽選 when:14d",
+    "家電 プレゼント when:14d",
 )
 FEEDS = [("PR TIMES", PR_TIMES),
          ("懸賞生活ブログ", "https://kenshou.syumimania.com/feed/"),
@@ -97,8 +97,11 @@ def main():
         except (OSError, ValueError, ET.ParseError) as exc:
             print(source, "unavailable:", type(exc).__name__)
             continue
+        seen=0
+        kept=0
         for item in root.iter():
             if item.tag.split("}")[-1] not in ("item","entry"): continue
+            seen+=1
             title = plain(text_of(item,"title"))[:160]
             snippet = plain(text_of(item,"description"))[:240]
             if not title or not SIGNAL.search(title): continue
@@ -113,6 +116,7 @@ def main():
             if "フォロー" in title or "リポスト" in title: score -= 18
             score += 5 if SIMPLE.search(title) else 0
             cid = "rss-" + hashlib.sha256(link.encode()).hexdigest()[:18]
+            kept+=1
             result[cid] = {
                 "id":cid,"title":title,"url":link,
                 "organizer":"案内記事（主催者は要確認）",
@@ -121,6 +125,7 @@ def main():
                 "deadline":None,"createdAt":date.isoformat(),
                 "source":source,
             }
+        print(source,"items",seen,"matched",kept)
     if ok == 0:
         raise RuntimeError("All public RSS feeds failed; retaining existing data")
     for item in previous:
