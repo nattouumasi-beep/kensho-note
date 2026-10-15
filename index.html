@@ -126,7 +126,7 @@
     const dataset=allEntries();
     const key=$('#search').value.trim().toLocaleLowerCase('ja');const cat=$('#category').value;const order=$('#sort').value;const priorityMode=$('#priority').value;
     const nonDemo=dataset.filter(c=>!c.demo);
-    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c)).length);
+    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c) && (c.source==='自分で登録'||$('#priority').value==='all'||Number(c.priority||0)>=80)).length);
     $('#statSaved').textContent=String(nonDemo.filter(c=>flag(c.id).saved).length);
     $('#statApplied').textContent=String(nonDemo.filter(c=>flag(c.id).applied).length);
     const filtered=dataset.filter(c=>{
