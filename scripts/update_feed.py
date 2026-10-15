@@ -25,12 +25,14 @@ QUERIES = (
     "日用品 無料 懸賞 プレゼント when:14d",
     "ゲーム機 PC周辺機器 プレゼント 応募 when:14d",
 )
-FEEDS = [("PR TIMES", PR_TIMES)] + [
+FEEDS = [("PR TIMES", PR_TIMES),
+         ("懸賞生活ブログ", "https://kenshou.syumimania.com/feed/"),
+         ("激安らぼ", "https://gekiyasu-lab.net/feed/")] + [
     ("Google ニュース", "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": q, "hl": "ja", "gl": "JP", "ceid": "JP:ja"}))
     for q in QUERIES
 ]
-SIGNAL = re.compile(r"プレゼント|懸賞|抽選|当たる|当選|ギフト券|QUOカード|キャンペーン")
+SIGNAL = re.compile(r"プレゼント|懸賞|抽選|当たる|当選|ギフト券|QUOカード")
 EXCLUDE = re.compile(
     r"新規(会員)?登録|会員登録(が必要|必須)|有料会員|定期購入|対象商品.{0,12}購入|"
     r"レシート応募|購入者限定|購入者対象|抽選販売|先行販売|抽選予約|"
@@ -43,7 +45,7 @@ RANK = [
     ("家電・デジタル", 100, r"家電|テレビ|掃除機|イヤホン|ヘッドホン|スマホ|iPhone|iPad|タブレット|パソコン|PC周辺機器|モニター|キーボード|マウス|ドライヤー|炊飯器|コーヒーメーカー"),
     ("食品・飲料", 95, r"食品|飲料|お菓子|スイーツ|お米|お肉|お茶|コーヒー|グルメ|詰め合わせ|ビール|ジュース|食事券|冷凍食品"),
     ("ゲーム・ホビー", 90, r"ゲーム機|Nintendo|Switch|PlayStation|PS5|ゲーミング|Steam|ゲームソフト"),
-    ("日用品", 85, r"日用品|洗剤|柔軟剤|シャンプー|化粧品|スキンケア|衛生用品|タオル|入浴剤|歯磨き|キッチン用品"),
+    ("日用品", 85, r"日用品|洗剤|柔軟剤|シャンプー|化粧品|スキンケア|衛生用品|タオル|入浴剤|歯磨き|キッチン用品|文具|カレンダー|食器|収納用品"),
 ]
 def text_of(item, name):
     for child in item:
@@ -70,6 +72,8 @@ def allowed_link(link, feed):
         if u.scheme != "https" or u.username or u.password or len(link)>1600: return ""
         if feed == "PR TIMES" and u.hostname != "prtimes.jp": return ""
         if feed == "Google ニュース" and u.hostname != "news.google.com": return ""
+        if feed == "懸賞生活ブログ" and u.hostname not in ("kenshou.syumimania.com","www.kenshou.syumimania.com"): return ""
+        if feed == "激安らぼ" and u.hostname not in ("gekiyasu-lab.net","www.gekiyasu-lab.net"): return ""
         return urllib.parse.urlunsplit((u.scheme,u.netloc,u.path,u.query,""))
     except ValueError:
         return ""
@@ -137,7 +141,7 @@ def main():
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps({
         "generated_at":now.isoformat(timespec="seconds"),
-        "source":"Public PR TIMES and Google News RSS; candidates unverified",
+        "source":"Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
         "items":items
     },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     print("feeds:",ok,"/",len(FEEDS),"candidates:",len(items),"practical:",sum(x["priority"]>=80 for x in items))
