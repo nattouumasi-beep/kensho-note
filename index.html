@@ -76,7 +76,7 @@
     if(!isDirect(c))return '';
     const url=validUrl(c.url);if(!url)return '';
     const u=new URL(url);
-    return (u.hostname==='docs.google.com'&&u.pathname.startsWith('/forms/d/'))||u.hostname==='forms.gle'?url:'';
+    return ((u.hostname==='docs.google.com'&&u.pathname.startsWith('/forms/d/'))||u.hostname==='forms.gle'||(u.hostname==='from.shinyusha.co.jp'&&/^\/n\/form\/zrpb\/[A-Za-z0-9_-]{12,}$/.test(u.pathname)))?url:'';
   }
   const container = $('#cards');
   const today = () => new Intl.DateTimeFormat('sv-SE', {timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
