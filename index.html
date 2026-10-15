@@ -36,13 +36,13 @@
       <div class="metric"><span class="metric-icon mint">✓</span><div><strong id="statApplied">0</strong><span>応募済み</span></div></div>
     </section>
 
-    <section class="notice" role="note"><span class="notice-icon">ⓘ</span><div><strong>登録不要の懸賞を優先して探します</strong><p>会員登録・商品購入が必要と明記された候補を除外。ただし、残った候補も「登録不要」と確認できたわけではありません。応募条件・締切・公式ページを必ず確認してください。</p></div></section>
+    <section class="notice" role="note"><span class="notice-icon">ⓘ</span><div><strong>初期表示は「フォーム応募の記載がある候補」だけ</strong><p>Xのフォロー・リポスト、SNS投稿、購入条件が記事タイトルに書かれた候補は表示しません。タイトルから判定できないものも初期表示では除外。実際の応募方法・会員登録の要否はリンク先で必ず確認してください。</p></div></section>
     <section class="autofill-tip"><div><strong>🖥️ PCならChromeの自動入力で応募を簡単に</strong><p>初回だけChromeの「設定 → 自動入力とパスワード → 住所やその他の情報」で、応募用メールアドレス・氏名・住所・電話番号を登録。以後は対応する応募フォームで入力欄をクリックし、保存した情報を選べます。</p><small>応募サイトによって自動入力できない項目もあります。応募前に内容と規約を確認してください。個人情報は懸賞ノートや公開GitHubには保存・送信しません。</small></div><a href="https://support.google.com/chrome/answer/142893?hl=ja" target="_blank" rel="noopener noreferrer">Chromeの設定ガイド ↗</a></section>
 
     <section id="listSection" class="list-section">
       <div class="section-top"><div><div class="section-overline">EXPLORE</div><h2>実用品の懸賞を探す <span class="section-star">✦</span></h2><p class="subtitle" id="feedSummary">データの読み込みを確認しています</p></div><button id="addButton" class="add-btn" type="button">＋ 手動追加（任意）</button></div>
       <nav class="tabs" aria-label="表示する応募状況"><button class="tab active" type="button" data-tab="all" aria-current="page">すべて</button><button class="tab" type="button" data-tab="saved">☆ 保存</button><button class="tab" type="button" data-tab="applied">✓ 応募済み</button><button class="tab" type="button" data-tab="hidden">非表示</button></nav>
-      <div class="filters"><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="賞品名・キーワードで検索" autocomplete="off" aria-label="賞品名・キーワードで検索"></label><select id="category" aria-label="カテゴリー"><option value="all">全カテゴリー</option><option value="ギフト券">ギフト券</option><option value="家電・デジタル">家電・デジタル</option><option value="食品・飲料">食品・飲料</option><option value="ゲーム・ホビー">ゲーム・ホビー</option><option value="日用品">日用品</option><option value="その他">その他</option></select><select id="priority" aria-label="候補を絞る"><option value="practical">実用品だけ（おすすめ）</option><option value="all">候補すべて</option></select><select id="sort" aria-label="並べ替え"><option value="recommended">実用性順</option><option value="new">新着順</option><option value="deadline">締切が近い順</option><option value="title">名前順</option></select></div>
+      <div class="filters"><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="賞品名・キーワードで検索" autocomplete="off" aria-label="賞品名・キーワードで検索"></label><select id="category" aria-label="カテゴリー"><option value="all">全カテゴリー</option><option value="ギフト券">ギフト券</option><option value="家電・デジタル">家電・デジタル</option><option value="食品・飲料">食品・飲料</option><option value="ゲーム・ホビー">ゲーム・ホビー</option><option value="日用品">日用品</option><option value="その他">その他</option></select><select id="priority" aria-label="候補を絞る"><option value="practical">実用品だけ（おすすめ）</option><option value="all">候補すべて</option></select><select id="entryMethod" aria-label="応募方法"><option value="form">フォーム・アンケート明記のみ（おすすめ）</option><option value="no-sns">SNS・購入条件の記載を除外（未確認含む）</option><option value="all">全件（X・SNS含む）</option></select><select id="sort" aria-label="並べ替え"><option value="recommended">実用性順</option><option value="new">新着順</option><option value="deadline">締切が近い順</option><option value="title">名前順</option></select></div>
       <div class="list-toolbar"><span id="resultCount">0件の候補</span><button id="manageButton" type="button" class="text-btn">バックアップ・設定 ⚙</button></div>
       <div id="cards" class="cards" aria-live="polite"></div>
       <div id="emptyState" class="empty" hidden><div>🗂️</div><h3 id="emptyTitle">実用品の候補がまだありません</h3><p id="emptyDescription">収集済み情報では該当なし。「候補すべて」に切り替えると他の情報も見られます。</p><button id="emptyAdd" class="btn-primary" type="button">自分で登録（任意）</button></div>
@@ -75,6 +75,19 @@
   const today = () => new Intl.DateTimeFormat('sv-SE', {timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
   const validUrl = (value) => {try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password ? u.href : ''; } catch {return '';} };
   const safeText = (value, cap = 160) => String(value || '').slice(0,cap);
+  function entryMethod(c){
+    if(c.demo) return 'demo';
+    if(c.source==='自分で登録')return 'manual';
+    const t=String(c.title||'');
+    if(/フォロー|リポスト|リツイート|(?:公式|アカウント|投稿|上|で|の)X(?:[（(]|[、にでを\s])|X[（(]旧Twitter|Twitter|ツイッター|Instagram|インスタグラム|TikTok|ティックトック|LINE(?:公式|友だち|お友だち|で応募|応募)|ハッシュタグ投稿|引用ポスト|ポストして応募/i.test(t))return 'sns';
+    if(/店頭|来店|購入|レシート|応募マーク|クイズ正解|フォトコンテスト|アプリ(登録|インストール|ダウンロード)|新規入会/.test(t))return 'other';
+    if(/フォームから応募|応募フォーム|専用フォーム|Webフォーム|ウェブフォーム|応募ページ|アンケートに答えて|アンケート回答で|フォームに入力/.test(t))return 'form';
+    return ['sns','other','form'].includes(c.method)?c.method:'unknown';
+  }
+  function matchesEntryMethod(c, mode){
+    const m=entryMethod(c);
+    return mode==='all'||m==='demo'||m==='manual'||(mode==='form'?m==='form':m!=='sns'&&m!=='other');
+  }
   const getStored = () => {try {const raw=localStorage.getItem(STORAGE_KEY);return raw ? JSON.parse(raw) : null;} catch {return null;}};
   const normalizeState = (v) => {
     const manual = Array.isArray(v?.manual) ? v.manual.filter(x => x && x.id && validUrl(x.url)).slice(0,500) : [];
@@ -94,7 +107,7 @@
   function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(state));return true;}catch{toast('このブラウザでは履歴を保存できません。JSONバックアップをご利用ください。');return false;}}
   const flag = (id) => state.flags[id] || {};
   function entries(){const ids=new Set();return [...state.manual,...remote,...Object.values(state.archive)].filter(c => {if(ids.has(c.id))return false;ids.add(c.id);return true;});}
-  function snapshot(c){return {id:c.id,title:safeText(c.title,150),url:validUrl(c.url),organizer:safeText(c.organizer,95),category:safeText(c.category,40),priority:Number(c.priority||0),registration:'未確認（応募先で確認）',deadline:c.deadline||null,createdAt:c.createdAt||today(),source:c.source||'PR TIMES'};}
+  function snapshot(c){return {id:c.id,title:safeText(c.title,150),url:validUrl(c.url),organizer:safeText(c.organizer,95),category:safeText(c.category,40),priority:Number(c.priority||0),method:entryMethod(c),registration:'未確認（応募先で確認）',deadline:c.deadline||null,createdAt:c.createdAt||today(),source:c.source||'PR TIMES'};}
   function allEntries(){const data=entries();isDemo=data.length===0 && !loadedAt;return isDemo ? DEMOS : data;}
   function displayDate(s){if(!/^\d{4}-\d{2}-\d{2}$/.test(s||''))return '締切は要確認';const [y,m,d]=s.split('-');return `${Number(m)}/${Number(d)} 締切`;}
   function makeText(tag,text,cl){const el=document.createElement(tag);el.textContent=text;if(cl)el.className=cl;return el;}
@@ -104,13 +117,14 @@
     const f=flag(c.id), expired=isExpired(c);
     const root=document.createElement('article');root.className='campaign';
     const top=makeText('div','','campaign-top');
-    const sourceLabel=c.demo?'お試し':c.source==='自分で登録'?'自分で登録':Number(c.priority||0)>=80?'実用品の候補':'未確認の候補';
+    const method=entryMethod(c);
+    const sourceLabel=c.demo?'お試し':method==='form'?'フォーム記載あり':method==='sns'?'SNS操作あり':method==='other'?'追加条件あり':c.source==='自分で登録'?'自分で登録':'応募方法未確認';
     top.append(makeText('span',sourceLabel,'tag'+(c.demo?' demo':c.source==='自分で登録'?' user':'')));
     top.append(makeText('span',expired?'期限切れ':f.applied?'応募済み':'条件を確認','status'+(expired?' expired':'')));
     const main=makeText('div','','campaign-main');main.append(makeText('h3',safeText(c.title,130)));
     main.append(makeText('div',safeText(c.organizer||'主催者はリンク先で確認',95),'organizer'));
-    main.append(makeText('div',c.demo?'架空の例です。実在する応募先はありません。':c.source==='自分で登録'?safeText(c.memo||'応募条件・応募規約をリンク先で確認してください。',150):'会員登録の要否：未確認 ／ 公式応募先・送料・購入条件は必ずご確認ください。','campaign-note'));
-    const meta=makeText('div','','campaign-meta');meta.append(makeText('span',safeText(c.category||'その他',30)),makeText('span',displayDate(c.deadline)));
+    main.append(makeText('div',c.demo?'架空の例です。実在する応募先はありません。':c.source==='自分で登録'?safeText(c.memo||'応募条件・応募規約をリンク先で確認してください。',150):method==='form'?'記事タイトルにフォーム・アンケートの記載あり。SNS操作や会員登録が完全に不要かは未確認です。':method==='sns'?'X・SNS操作が記載されています。':'応募方法・登録要否は未確認です。紹介記事から主催者の条件を確認してください。','campaign-note'));
+    const meta=makeText('div','','campaign-meta');meta.append(makeText('span',safeText(c.category||'その他',30)),makeText('span',method==='form'?'フォーム記載':method==='sns'?'X・SNS':method==='other'?'手続き多め':method==='unknown'?'方式未確認':'登録した候補'),makeText('span',displayDate(c.deadline)));
     const acts=makeText('div','','campaign-actions');
     const link=validUrl(c.url);
     if(!c.demo && link){const a=makeText('a',c.source==='自分で登録'?'ページを見る ↗':'紹介記事を見る ↗','open-btn');a.href=link;a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';acts.append(a);} else {acts.append(makeText('span','デモのため応募不可','open-btn disabled'));}
@@ -124,9 +138,9 @@
   }
   function render(){
     const dataset=allEntries();
-    const key=$('#search').value.trim().toLocaleLowerCase('ja');const cat=$('#category').value;const order=$('#sort').value;const priorityMode=$('#priority').value;
+    const key=$('#search').value.trim().toLocaleLowerCase('ja');const cat=$('#category').value;const order=$('#sort').value;const priorityMode=$('#priority').value;const methodMode=$('#entryMethod').value;
     const nonDemo=dataset.filter(c=>!c.demo);
-    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c) && (c.source==='自分で登録'||$('#priority').value==='all'||Number(c.priority||0)>=80)).length);
+    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c) && (c.source==='自分で登録'||priorityMode==='all'||Number(c.priority||0)>=80) && matchesEntryMethod(c,methodMode)).length);
     $('#statSaved').textContent=String(nonDemo.filter(c=>flag(c.id).saved).length);
     $('#statApplied').textContent=String(nonDemo.filter(c=>flag(c.id).applied).length);
     const filtered=dataset.filter(c=>{
@@ -137,6 +151,7 @@
       if(tab!=='hidden'&&f.hidden)return false;
       if(tab==='all'&&(f.applied||isExpired(c)))return false;
       if(tab==='all'&&priorityMode==='practical'&&!c.demo&&c.source!=='自分で登録'&&Number(c.priority||0)<80)return false;
+      if(tab==='all'&&!matchesEntryMethod(c,methodMode))return false;
       if(cat!=='all'&&c.category!==cat)return false;
       return `${c.title} ${c.organizer} ${c.category} ${c.memo||''}`.toLocaleLowerCase('ja').includes(key);
     }) .sort((a,b)=>order==='recommended'?(Number(b.priority||0)-Number(a.priority||0)||String(b.createdAt||'').localeCompare(String(a.createdAt||''))):order==='deadline'?String(a.deadline||'9999').localeCompare(String(b.deadline||'9999')):order==='title'?a.title.localeCompare(b.title,'ja'):String(b.createdAt||'').localeCompare(String(a.createdAt||'')));
@@ -144,7 +159,7 @@
     $('#resultCount').textContent=`${filtered.length}件を表示${isDemo?'（デモ）':''}`;
     const empty=filtered.length===0;$('#emptyState').hidden=!empty;
     $('#demoHint').hidden=!isDemo;
-    if(empty){$('#emptyTitle').textContent=dataset.length&&(!isDemo||tab!=='all')?'この条件では候補がありません':'まだ候補がありません';$('#emptyDescription').textContent=tab==='applied'?'応募後に「応募済みにする」を押すと、ここに表示されます。':tab==='saved'?'☆保存すると、ここに表示されます。':tab==='hidden'?'非表示にした候補がここに表示されます。':loadedAt?'新しい候補が見つかりませんでした。外部の懸賞情報一覧も確認できます。':'自動収集済みの候補がまだありません。後で再確認してください。';}
+    if(empty){$('#emptyTitle').textContent=dataset.length&&(!isDemo||tab!=='all')?'この条件では候補がありません':'まだ候補がありません';$('#emptyDescription').textContent=tab==='applied'?'応募後に「応募済みにする」を押すと、ここに表示されます。':tab==='saved'?'☆保存すると、ここに表示されます。':tab==='hidden'?'非表示にした候補がここに表示されます。':loadedAt?'この条件で見つかった応募フォーム記載の案件はありません。「SNS除外（未確認含む）」に変更すると候補が増えます。':'自動収集済みの候補がまだありません。後で再確認してください。';}
   }
   function show(id){const el=document.getElementById(id);if(el?.showModal)el.showModal();}
   function close(id){const el=document.getElementById(id);el?.close();}
@@ -155,7 +170,7 @@
   $('#manageButton').addEventListener('click',()=>show('manageDialog'));
   [$('#addButton'),$('#emptyAdd')].forEach(b=>b.addEventListener('click',()=>show('addDialog')));
   document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>{tab=b.dataset.tab;document.querySelectorAll('.tab').forEach(x=>{const active=x===b;x.classList.toggle('active',active);if(active)x.setAttribute('aria-current','page');else x.removeAttribute('aria-current');});render();}));
-  [$('#search'),$('#category'),$('#priority'),$('#sort')].forEach(x=>x.addEventListener(x.id==='search'?'input':'change',render));
+  [$('#search'),$('#category'),$('#priority'),$('#entryMethod'),$('#sort')].forEach(x=>x.addEventListener(x.id==='search'?'input':'change',render));
   container.addEventListener('click',e=>{
     const btn=e.target.closest('button[data-action]');if(!btn)return;
     const id=btn.dataset.id,action=btn.dataset.action;
@@ -163,7 +178,7 @@
     const c = entries().find(x => x.id === id);
     if (!c || c.demo) return;
     const f=state.flags[id]||{};f[action]=!f[action];state.flags[id]=f;
-    if (c.source === 'PR TIMES') {
+    if (String(c.id).startsWith('rss-')) {
       if (f.saved || f.applied) state.archive[id] = snapshot(c);
       else delete state.archive[id];
     }
@@ -192,8 +207,8 @@
   async function loadFeed(){
     try{
       const res=await fetch('data/campaigns.json',{cache:'no-store'});if(!res.ok)throw Error('データ取得不可');const json=await res.json();if(!Array.isArray(json.items))throw Error('不正なデータ');
-      remote=json.items.filter(c=>c&&c.id&&c.title&&validUrl(c.url)).slice(0,400).map(c=>({...c,title:safeText(c.title,150),organizer:safeText(c.organizer,95),source:safeText(c.source||'PR TIMES',30),priority:Number(c.priority||0),registration:'未確認（応募先で確認）',url:validUrl(c.url)}));loadedAt=json.generated_at;
-      if(loadedAt)$('#feedSummary').textContent=`公開RSSから候補${remote.length}件（実用品${remote.filter(c=>c.priority>=80).length}件）／ 登録不要かは未確認 ／ 更新：${new Date(loadedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}（応募条件は未確認）`;
+      remote=json.items.filter(c=>c&&c.id&&c.title&&validUrl(c.url)).slice(0,400).map(c=>({...c,title:safeText(c.title,150),organizer:safeText(c.organizer,95),source:safeText(c.source||'PR TIMES',30),priority:Number(c.priority||0),method:entryMethod(c),registration:'未確認（応募先で確認）',url:validUrl(c.url)}));loadedAt=json.generated_at;
+      if(loadedAt)$('#feedSummary').textContent=`公開RSSから候補${remote.length}件（実用品${remote.filter(c=>c.priority>=80).length}件／フォーム記載${remote.filter(c=>entryMethod(c)==='form'&&c.priority>=80).length}件）／ 応募条件は未確認 ／ 更新：${new Date(loadedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}（応募条件は未確認）`;
       else $('#feedSummary').textContent='自動収集は未設定です。まずはサンプルで操作をお試しください。';
     }catch{$('#feedSummary').textContent='サンプル表示中。公開すると自動収集データを読み込めます。';}
     render();
