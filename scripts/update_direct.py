@@ -127,7 +127,15 @@ def main():
                     raise ValueError("publisher page exceeds budget")
             link = find_direct_link(page.decode("utf-8", errors="replace"), source["month_label"])
             if not link:
-                print(source["id"], "NO_VERIFIABLE_DIRECT_FORM")
+                parser=Links()
+                parser.feed(page.decode("utf-8", errors="replace"))
+                links=[(href,label) for href,label in parser.links if "応募" in label or "こちら" in label or "フォーム" in label or "docs.google" in href or "forms.gle" in href]
+                print(source["id"], "NO_VERIFIABLE_DIRECT_FORM",
+                      "page_len",len(page),"month_label",source["month_label"] in " ".join(parser.parts),
+                      "anchor_count",len(parser.links),"cta_count",len(links))
+                for href,label in links[:8]:
+                    # Publisher page links are public, but print only host and short CTA text.
+                    print("CTA",repr(label[:70]),urllib.parse.urlsplit(urllib.parse.urljoin(source["page"],href)).hostname,href[:130])
                 failures += 1
                 continue
             data.append({
