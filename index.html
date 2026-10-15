@@ -36,13 +36,13 @@
       <div class="metric"><span class="metric-icon mint">✓</span><div><strong id="statApplied">0</strong><span>応募済み</span></div></div>
     </section>
 
-    <section class="notice" role="note"><span class="notice-icon">ⓘ</span><div><strong>応募の楽さ・企業の確かさ・当選人数を重視</strong><p>簡単そうな応募を優先し、記事見出しにある当選人数を参考表示します。ただし応募者数が不明なため当選確率は算出できません。掲載記事の媒体が信頼できても主催企業まで確認できたわけではありません。公式サイト・公式アカウントと応募規約を確認してください。</p></div></section>
+    <section class="notice" role="note"><span class="notice-icon">ⓘ</span><div><strong>最初に見せるのは「応募先に直接行ける懸賞」</strong><p>公式サイトが掲載するフォームへの直行リンクを優先します。記事を何ページも探す必要はありません。応募が受付中か、会員登録・アンケートなどの条件があるかはフォームで確認してください。「ニュース候補」は別表示にしました。</p></div></section>
     <section class="autofill-tip"><div><strong>🖥️ PCならChromeの自動入力で応募を簡単に</strong><p>初回だけChromeの「設定 → 自動入力とパスワード → 住所やその他の情報」で、応募用メールアドレス・氏名・住所・電話番号を登録。以後は対応する応募フォームで入力欄をクリックし、保存した情報を選べます。</p><small>応募サイトによって自動入力できない項目もあります。応募前に内容と規約を確認してください。個人情報は懸賞ノートや公開GitHubには保存・送信しません。</small></div><a href="https://support.google.com/chrome/answer/142893?hl=ja" target="_blank" rel="noopener noreferrer">Chromeの設定ガイド ↗</a></section>
 
     <section id="listSection" class="list-section">
       <div class="section-top"><div><div class="section-overline">EXPLORE</div><h2>実用品の懸賞を探す <span class="section-star">✦</span></h2><p class="subtitle" id="feedSummary">データの読み込みを確認しています</p></div><button id="addButton" class="add-btn" type="button">＋ 手動追加（任意）</button></div>
       <nav class="tabs" aria-label="表示する応募状況"><button class="tab active" type="button" data-tab="all" aria-current="page">すべて</button><button class="tab" type="button" data-tab="saved">☆ 保存</button><button class="tab" type="button" data-tab="applied">✓ 応募済み</button><button class="tab" type="button" data-tab="hidden">非表示</button></nav>
-      <div class="filters"><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="賞品名・キーワードで検索" autocomplete="off" aria-label="賞品名・キーワードで検索"></label><select id="category" aria-label="カテゴリー"><option value="all">全カテゴリー</option><option value="ギフト券">ギフト券</option><option value="家電・デジタル">家電・デジタル</option><option value="食品・飲料">食品・飲料</option><option value="ゲーム・ホビー">ゲーム・ホビー</option><option value="日用品">日用品</option><option value="その他">その他</option></select><select id="priority" aria-label="候補を絞る"><option value="practical">実用品だけ（おすすめ）</option><option value="all">候補すべて</option></select><select id="entryMethod" aria-label="応募方法"><option value="easy">手間が少なそう（X＋Web）</option><option value="easy-x">Xの簡単そうな応募</option><option value="form">Webフォーム・アンケート</option><option value="no-sns">SNSなし（未確認を含む）</option><option value="all">全件を表示</option></select><select id="sort" aria-label="並べ替え"><option value="recommended">実用性順</option><option value="new">新着順</option><option value="deadline">締切が近い順</option><option value="winner-data">当選人数の記載順（確率ではない）</option><option value="title">名前順</option></select></div>
+      <div class="filters"><select id="linkMode" aria-label="リンクの種類"><option value="direct">応募ページ直行のみ（おすすめ）</option><option value="all">ニュース候補も表示</option></select><label class="search-box"><span aria-hidden="true">⌕</span><input type="search" id="search" placeholder="賞品名・キーワードで検索" autocomplete="off" aria-label="賞品名・キーワードで検索"></label><select id="category" aria-label="カテゴリー"><option value="all">全カテゴリー</option><option value="ギフト券">ギフト券</option><option value="家電・デジタル">家電・デジタル</option><option value="食品・飲料">食品・飲料</option><option value="ゲーム・ホビー">ゲーム・ホビー</option><option value="日用品">日用品</option><option value="その他">その他</option></select><select id="priority" aria-label="候補を絞る"><option value="practical">実用品だけ（おすすめ）</option><option value="all">候補すべて</option></select><select id="entryMethod" aria-label="応募方法"><option value="easy">手間が少なそう（X＋Web）</option><option value="easy-x">Xの簡単そうな応募</option><option value="form">Webフォーム・アンケート</option><option value="no-sns">SNSなし（未確認を含む）</option><option value="all">全件を表示</option></select><select id="sort" aria-label="並べ替え"><option value="recommended">実用性順</option><option value="new">新着順</option><option value="deadline">締切が近い順</option><option value="winner-data">当選人数の記載順（確率ではない）</option><option value="title">名前順</option></select></div>
       <div class="list-toolbar"><span id="resultCount">0件の候補</span><button id="manageButton" type="button" class="text-btn">バックアップ・設定 ⚙</button></div>
       <div id="cards" class="cards" aria-live="polite"></div>
       <div id="emptyState" class="empty" hidden><div>🗂️</div><h3 id="emptyTitle">実用品の候補がまだありません</h3><p id="emptyDescription">収集済み情報では該当なし。「候補すべて」に切り替えると他の情報も見られます。</p><button id="emptyAdd" class="btn-primary" type="button">自分で登録（任意）</button></div>
@@ -71,12 +71,20 @@
     {id:'demo-3',title:'食品セット（サンプル）',organizer:'実在するキャンペーンではありません',category:'食品・飲料',channel:'Web',deadline:null,source:'サンプル',url:'',demo:true,createdAt:'2026-10-15'}
   ];
   const $ = (s) => document.querySelector(s);
+  const isDirect = (c) => c && c.direct === true && /^(direct-)/.test(String(c.id||''));
+  function officialFormUrl(c) {
+    if(!isDirect(c))return '';
+    const url=validUrl(c.url);if(!url)return '';
+    const u=new URL(url);
+    return (u.hostname==='docs.google.com'&&u.pathname.startsWith('/forms/d/'))||u.hostname==='forms.gle'?url:'';
+  }
   const container = $('#cards');
   const today = () => new Intl.DateTimeFormat('sv-SE', {timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
   const validUrl = (value) => {try { const u = new URL(value); return u.protocol === 'https:' && !u.username && !u.password ? u.href : ''; } catch {return '';} };
   const safeText = (value, cap = 160) => String(value || '').slice(0,cap);
   function entryMethod(c){
     if(c.demo) return 'demo';
+    if(isDirect(c))return 'form';
     if(c.source==='自分で登録')return 'manual';
     const t=String(c.title||'');
     if(/フォロー|リポスト|リツイート|(?:公式|アカウント|投稿|上|で|の)X(?:[（(]|[、にでを\s])|X[（(]旧Twitter|Twitter|ツイッター|Instagram|インスタグラム|TikTok|ティックトック|LINE(?:公式|友だち|お友だち|で応募|応募)|ハッシュタグ投稿|引用ポスト|ポストして応募/i.test(t))return 'sns';
@@ -133,18 +141,18 @@
     const archive = {};
     if (v?.archive && typeof v.archive === 'object' && !Array.isArray(v.archive)) {
       for (const [id, c] of Object.entries(v.archive).slice(0,500)) {
-        if (id.startsWith('rss-') && c && c.id === id && validUrl(c.url)) archive[id] = c;
+        if ((id.startsWith('rss-')||id.startsWith('direct-')) && c && c.id === id && validUrl(c.url)) archive[id] = c;
       }
     }
     return { manual, flags, archive };
   };
-  let state = normalizeState(getStored()), remote = [], tab = 'all', isDemo = false, loadedAt = null;
+  let state = normalizeState(getStored()), remote = [], direct = [], tab = 'all', isDemo = false, loadedAt = null;
   let toastTimer;
   function toast(message){const e=$('#toast');e.textContent=message;e.classList.add('show');clearTimeout(toastTimer);toastTimer=setTimeout(()=>e.classList.remove('show'),3000);}
   function persist(){try{localStorage.setItem(STORAGE_KEY,JSON.stringify(state));return true;}catch{toast('このブラウザでは履歴を保存できません。JSONバックアップをご利用ください。');return false;}}
   const flag = (id) => state.flags[id] || {};
-  function entries(){const ids=new Set();return [...state.manual,...remote,...Object.values(state.archive)].filter(c => {if(ids.has(c.id))return false;ids.add(c.id);return true;});}
-  function snapshot(c){return {id:c.id,title:safeText(c.title,150),url:validUrl(c.url),organizer:safeText(c.organizer,95),category:safeText(c.category,40),priority:Number(c.priority||0),method:entryMethod(c),registration:'未確認（応募先で確認）',deadline:c.deadline||null,createdAt:c.createdAt||today(),source:c.source||'PR TIMES'};}
+  function entries(){const ids=new Set();return [...state.manual,...direct,...remote,...Object.values(state.archive)].filter(c => {if(ids.has(c.id))return false;ids.add(c.id);return true;});}
+  function snapshot(c){return {id:c.id,title:safeText(c.title,150),url:validUrl(c.url),organizer:safeText(c.organizer,95),category:safeText(c.category,40),priority:Number(c.priority||0),method:entryMethod(c),direct:!!c.direct,officialArticle:validUrl(c.officialArticle||''),description:safeText(c.description,240),registration:'未確認（応募先で確認）',deadline:c.deadline||null,createdAt:c.createdAt||today(),source:c.source||'PR TIMES'};}
   function allEntries(){const data=entries();isDemo=data.length===0 && !loadedAt;return isDemo ? DEMOS : data;}
   function displayDate(s){if(!/^\d{4}-\d{2}-\d{2}$/.test(s||''))return '締切は要確認';const [y,m,d]=s.split('-');return `${Number(m)}/${Number(d)} 締切`;}
   function makeText(tag,text,cl){const el=document.createElement(tag);el.textContent=text;if(cl)el.className=cl;return el;}
@@ -170,34 +178,35 @@
     const root=document.createElement('article');root.className='campaign';
     const top=makeText('div','','campaign-top');
     const method=entryMethod(c);
-    const sourceLabel=c.demo?'お試し':easyX(c)?'Xで簡単そう':method==='form'?'フォーム記載あり':method==='sns'?'SNS操作あり':method==='other'?'追加条件あり':c.source==='自分で登録'?'自分で登録':'応募方法未確認';
+    const sourceLabel=c.demo?'お試し':isDirect(c)?'応募フォームへ直行':easyX(c)?'Xで簡単そう':method==='form'?'フォーム記載あり':method==='sns'?'SNS操作あり':method==='other'?'追加条件あり':c.source==='自分で登録'?'自分で登録':'応募方法未確認';
     top.append(makeText('span',sourceLabel,'tag'+(c.demo?' demo':c.source==='自分で登録'?' user':'')));
     top.append(makeText('span',expired?'期限切れ':f.applied?'応募済み':'条件を確認','status'+(expired?' expired':'')));
     const main=makeText('div','','campaign-main');main.append(makeText('h3',safeText(c.title,130)));
     main.append(makeText('div',safeText(c.organizer||'主催者はリンク先で確認',95),'organizer'));
-    main.append(makeText('div',c.demo?'架空の例です。実在する応募先はありません。':c.source==='自分で登録'?safeText(c.memo||'応募条件・応募規約をリンク先で確認してください。',150):easyX(c)?'Xでリポスト中心の応募候補。フォロー・コメントなど追加条件と締切は記事・公式投稿で確認してください。':method==='form'?'記事タイトルにフォーム・アンケートの記載あり。SNS操作や会員登録が完全に不要かは未確認です。':method==='sns'?'X・SNS操作が記載されています。':'応募方法・登録要否は未確認です。紹介記事から主催者の条件を確認してください。','campaign-note'));
+    main.append(makeText('div',c.demo?'架空の例です。実在する応募先はありません。':c.source==='自分で登録'?safeText(c.memo||'応募条件・応募規約をリンク先で確認してください。',150):isDirect(c)?safeText(c.description||'公式サイトから案内されているフォームです。送信前に応募条件を確認してください。',200):easyX(c)?'Xでリポスト中心の応募候補。フォロー・コメントなど追加条件と締切は記事・公式投稿で確認してください。':method==='form'?'記事タイトルにフォーム・アンケートの記載あり。SNS操作や会員登録が完全に不要かは未確認です。':method==='sns'?'X・SNS操作が記載されています。':'応募方法・登録要否は未確認です。紹介記事から主催者の条件を確認してください。','campaign-note'));
     const winners=winnerInfo(c);
-    const meta=makeText('div','','campaign-meta');meta.append(makeText('span',safeText(c.category||'その他',30)),makeText('span',easyX(c)?'Xの簡単候補':method==='form'?'フォーム記載':method==='sns'?'X・SNS':method==='other'?'手続き多め':method==='unknown'?'方式未確認':'登録した候補'),makeText('span',displayDate(c.deadline)));
+    const meta=makeText('div','','campaign-meta');meta.append(makeText('span',safeText(c.category||'その他',30)),makeText('span',isDirect(c)?'公式サイトの直行フォーム':easyX(c)?'Xの簡単候補':method==='form'?'フォーム記載':method==='sns'?'X・SNS':method==='other'?'手続き多め':method==='unknown'?'方式未確認':'登録した候補'),makeText('span',displayDate(c.deadline)));
     if(!c.demo){const reliability=makeText('div','','campaign-trust');
-      reliability.append(makeText('span','主催企業：公式確認前'),makeText('span',winners?'当選人数：見出しに'+winners.label:'当選人数：記載未確認'),makeText('span','応募者数：不明（確率計算不可）'));
+      reliability.append(makeText('span',isDirect(c)?'掲載元：出版社の公式ページ':'主催企業：公式確認前'),makeText('span',winners?'当選人数：見出しに'+winners.label:'当選人数：記載未確認'),makeText('span','応募者数：不明（確率計算不可）'));
       main.append(reliability);
     }
     const acts=makeText('div','','campaign-actions');
-    const link=validUrl(c.url);
-    if(!c.demo && link){const a=makeText('a',c.source==='自分で登録'?'ページを見る ↗':'紹介記事を見る ↗','open-btn');a.href=link;a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';acts.append(a);} else {acts.append(makeText('span','デモのため応募不可','open-btn disabled'));}
+    const link=isDirect(c)?officialFormUrl(c):validUrl(c.url);
+    if(!c.demo && link){const a=makeText('a',isDirect(c)?'応募フォームを開く ↗':c.source==='自分で登録'?'ページを見る ↗':'紹介記事を見る ↗','open-btn');a.href=link;a.target='_blank';a.rel='noopener noreferrer';a.referrerPolicy='no-referrer';acts.append(a);} else {acts.append(makeText('span','デモのため応募不可','open-btn disabled'));}
     if (!c.demo) {
       acts.append(makeButton(f.saved?'★ 保存中':'☆ 保存','saved',c.id,'small-btn'+(f.saved?' on':'')),makeButton(f.applied?'✓ 応募済み':'応募済みにする','applied',c.id,'small-btn'+(f.applied?' applied':'')));
     }
     const bottom=makeText('div','','card-bottom');bottom.append(makeText('span',c.source||'出典未確認','link-button'));
+    if(isDirect(c)&&validUrl(c.officialArticle)){const article=makeText('a','公式の応募条件を確認 ↗','link-button');article.href=validUrl(c.officialArticle);article.target='_blank';article.rel='noopener noreferrer';article.referrerPolicy='no-referrer';bottom.append(article);}
     if(c.source==='自分で登録')bottom.append(makeButton('削除','delete',c.id,'link-button'));
     else if(!c.demo) bottom.append(makeButton(f.hidden?'表示に戻す':'非表示','hidden',c.id,'link-button'));
     root.append(top,main,meta,acts,bottom);return root;
   }
   function render(){
     const dataset=allEntries();
-    const key=$('#search').value.trim().toLocaleLowerCase('ja');const cat=$('#category').value;const order=$('#sort').value;const priorityMode=$('#priority').value;const methodMode=$('#entryMethod').value;
+    const key=$('#search').value.trim().toLocaleLowerCase('ja');const cat=$('#category').value;const order=$('#sort').value;const priorityMode=$('#priority').value;const methodMode=$('#entryMethod').value;const linkMode=$('#linkMode').value;
     const nonDemo=dataset.filter(c=>!c.demo);
-    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c) && (c.source==='自分で登録'||priorityMode==='all'||Number(c.priority||0)>=80||easyX(c)) && matchesEntryMethod(c,methodMode)).length);
+    $('#statCandidates').textContent=String(nonDemo.filter(c=>!flag(c.id).applied && !flag(c.id).hidden && !isExpired(c) && (c.source==='自分で登録'||priorityMode==='all'||Number(c.priority||0)>=80||easyX(c)) && matchesEntryMethod(c,methodMode) && (linkMode==='all'||isDirect(c))).length);
     $('#statSaved').textContent=String(nonDemo.filter(c=>flag(c.id).saved).length);
     $('#statApplied').textContent=String(nonDemo.filter(c=>flag(c.id).applied).length);
     const filtered=dataset.filter(c=>{
@@ -207,6 +216,7 @@
       if(tab==='hidden'&&!f.hidden)return false;
       if(tab!=='hidden'&&f.hidden)return false;
       if(tab==='all'&&(f.applied||isExpired(c)))return false;
+      if(tab==='all'&&linkMode==='direct'&&!isDirect(c))return false;
       if(tab==='all'&&priorityMode==='practical'&&!c.demo&&c.source!=='自分で登録'&&Number(c.priority||0)<80&&!easyX(c))return false;
       if(tab==='all'&&!matchesEntryMethod(c,methodMode))return false;
       if(cat!=='all'&&c.category!==cat)return false;
@@ -216,7 +226,7 @@
     $('#resultCount').textContent=`${filtered.length}件を表示${isDemo?'（デモ）':''}`;
     const empty=filtered.length===0;$('#emptyState').hidden=!empty;
     $('#demoHint').hidden=!isDemo;
-    if(empty){$('#emptyTitle').textContent=dataset.length&&(!isDemo||tab!=='all')?'この条件では候補がありません':'まだ候補がありません';$('#emptyDescription').textContent=tab==='applied'?'応募後に「応募済みにする」を押すと、ここに表示されます。':tab==='saved'?'☆保存すると、ここに表示されます。':tab==='hidden'?'非表示にした候補がここに表示されます。':loadedAt?'この条件に合う応募候補が見つかりません。「SNSなし（未確認を含む）」や「全件」に切り替えると候補が増えます。':'自動収集済みの候補がまだありません。後で再確認してください。';}
+    if(empty){$('#emptyTitle').textContent=dataset.length&&(!isDemo||tab!=='all')?'この条件では候補がありません':'まだ候補がありません';$('#emptyDescription').textContent=tab==='applied'?'応募後に「応募済みにする」を押すと、ここに表示されます。':tab==='saved'?'☆保存すると、ここに表示されます。':tab==='hidden'?'非表示にした候補がここに表示されます。':loadedAt?linkMode==='direct'?'現在確認できる直行フォームがありません。「ニュース候補も表示」に切り替えると候補を見ることができます。':'この条件に合う候補が見つかりません。「全件」に切り替えると候補が増えます。':'自動収集済みの候補がまだありません。後で再確認してください。';}
   }
   function show(id){const el=document.getElementById(id);if(el?.showModal)el.showModal();}
   function close(id){const el=document.getElementById(id);el?.close();}
@@ -227,7 +237,7 @@
   $('#manageButton').addEventListener('click',()=>show('manageDialog'));
   [$('#addButton'),$('#emptyAdd')].forEach(b=>b.addEventListener('click',()=>show('addDialog')));
   document.querySelectorAll('.tab').forEach(b=>b.addEventListener('click',()=>{tab=b.dataset.tab;document.querySelectorAll('.tab').forEach(x=>{const active=x===b;x.classList.toggle('active',active);if(active)x.setAttribute('aria-current','page');else x.removeAttribute('aria-current');});render();}));
-  [$('#search'),$('#category'),$('#priority'),$('#entryMethod'),$('#sort')].forEach(x=>x.addEventListener(x.id==='search'?'input':'change',render));
+  [$('#search'),$('#category'),$('#priority'),$('#entryMethod'),$('#linkMode'),$('#sort')].forEach(x=>x.addEventListener(x.id==='search'?'input':'change',render));
   container.addEventListener('click',e=>{
     const btn=e.target.closest('button[data-action]');if(!btn)return;
     const id=btn.dataset.id,action=btn.dataset.action;
@@ -235,7 +245,7 @@
     const c = entries().find(x => x.id === id);
     if (!c || c.demo) return;
     const f=state.flags[id]||{};f[action]=!f[action];state.flags[id]=f;
-    if (String(c.id).startsWith('rss-')) {
+    if (String(c.id).startsWith('rss-')||String(c.id).startsWith('direct-')) {
       if (f.saved || f.applied) state.archive[id] = snapshot(c);
       else delete state.archive[id];
     }
@@ -265,12 +275,28 @@
     try{
       const res=await fetch('data/campaigns.json',{cache:'no-store'});if(!res.ok)throw Error('データ取得不可');const json=await res.json();if(!Array.isArray(json.items))throw Error('不正なデータ');
       remote=json.items.filter(c=>c&&c.id&&c.title&&validUrl(c.url)).slice(0,400).map(c=>({...c,title:safeText(c.title,150),organizer:safeText(c.organizer,95),source:safeText(c.source||'PR TIMES',30),priority:Number(c.priority||0),method:entryMethod(c),registration:'未確認（応募先で確認）',url:validUrl(c.url)}));loadedAt=json.generated_at;
-      if(loadedAt)$('#feedSummary').textContent=`公開RSSから候補${remote.length}件（実用品${remote.filter(c=>c.priority>=80).length}件／簡単そうなX${remote.filter(easyX).length}件／フォーム記載${remote.filter(c=>entryMethod(c)==='form'&&c.priority>=80).length}件）／ 応募条件は未確認 ／ 更新：${new Date(loadedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}（応募条件は未確認）`;
+      if(loadedAt && !direct.length)$('#feedSummary').textContent=`公開RSSから候補${remote.length}件（実用品${remote.filter(c=>c.priority>=80).length}件／簡単そうなX${remote.filter(easyX).length}件／フォーム記載${remote.filter(c=>entryMethod(c)==='form'&&c.priority>=80).length}件）／ 応募条件は未確認 ／ 更新：${new Date(loadedAt).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'})}（応募条件は未確認）`;
       else $('#feedSummary').textContent='自動収集は未設定です。まずはサンプルで操作をお試しください。';
     }catch{$('#feedSummary').textContent='サンプル表示中。公開すると自動収集データを読み込めます。';}
     render();
   }
-  render();loadFeed();
+  async function loadDirect(){
+    try{
+      const res=await fetch('data/direct.json',{cache:'no-store'});if(!res.ok)throw Error('直行フォームデータなし');
+      const data=await res.json();if(!Array.isArray(data.items))throw Error('データ形式が不正です');
+      direct=data.items.filter(c=>c&&String(c.id||'').startsWith('direct-')&&c.direct===true&&officialFormUrl(c)).map(c=>({
+        ...c,title:safeText(c.title,140),organizer:safeText(c.organizer,90),
+        description:safeText(c.description,240),source:safeText(c.source||'公式ページ',30),
+        category:safeText(c.category||'その他',30),url:officialFormUrl(c),
+        officialArticle:validUrl(c.officialArticle||''),priority:Number(c.priority||100),
+      }));
+      $('#feedSummary').textContent='公式サイト掲載の応募フォーム：'+direct.length+'件 ／ 期限と条件は送信前に確認（ニュース候補は別表示）';
+    }catch{
+      $('#feedSummary').textContent='直行フォームを取得できませんでした。ニュース候補は別表示で確認できます。';
+    }
+    render();
+  }
+  render();loadFeed();loadDirect();
 })();
 
 </script>
