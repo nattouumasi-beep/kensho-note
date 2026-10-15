@@ -82,6 +82,9 @@ def valid_form_link(link):
             return urllib.parse.urlunsplit((url.scheme, url.netloc, url.path, url.query, ""))
         if url.hostname == "forms.gle" and re.fullmatch(r"/[A-Za-z0-9_-]{6,}", url.path):
             return urllib.parse.urlunsplit((url.scheme, url.netloc, url.path, "", ""))
+        # This is the official publisher's form host, confirmed by links in 360LiFE pages.
+        if url.hostname == "from.shinyusha.co.jp" and re.fullmatch(r"/n/form/zrpb/[A-Za-z0-9_-]{12,}", url.path):
+            return urllib.parse.urlunsplit((url.scheme, url.netloc, url.path, "", ""))
     except ValueError:
         pass
     return ""
@@ -101,11 +104,10 @@ def find_direct_link(page, month_label):
     matching = [url for url, label in possibilities if month_label in label]
     if matching:
         return matching[0]
-    # Only accept the first form if the page states this issue prominently.
-    # Multiple distinct forms with unlabeled links are ambiguous; skip safely.
-    if len({url for url, _ in possibilities}) == 1:
-        return possibilities[0][0]
-    return ""
+    # On the three fixed monthly publisher pages, the newest issue is listed first.
+    # Older issue forms can appear below it, so select the first official form
+    # only when the page prominently names the configured issue.
+    return possibilities[0][0]
 
 def main():
     today = dt.datetime.now(JST)
@@ -127,15 +129,6 @@ def main():
                     raise ValueError("publisher page exceeds budget")
             link = find_direct_link(page.decode("utf-8", errors="replace"), source["month_label"])
             if not link:
-                parser=Links()
-                parser.feed(page.decode("utf-8", errors="replace"))
-                links=[(href,label) for href,label in parser.links if "応募" in label or "こちら" in label or "フォーム" in label or "docs.google" in href or "forms.gle" in href]
-                print(source["id"], "NO_VERIFIABLE_DIRECT_FORM",
-                      "page_len",len(page),"month_label",source["month_label"] in " ".join(parser.parts),
-                      "anchor_count",len(parser.links),"cta_count",len(links))
-                for href,label in links[:8]:
-                    # Publisher page links are public, but print only host and short CTA text.
-                    print("CTA",repr(label[:70]),urllib.parse.urlsplit(urllib.parse.urljoin(source["page"],href)).hostname,href[:130])
                 failures += 1
                 continue
             data.append({
