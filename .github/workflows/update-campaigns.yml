@@ -33,13 +33,17 @@ jobs:
         id: collect
         continue-on-error: true
         run: python scripts/update_feed.py
+      - name: Discover official direct forms
+        id: direct
+        continue-on-error: true
+        run: python scripts/update_direct.py
       - name: Save candidates
-        if: steps.collect.outcome == 'success'
+        if: steps.collect.outcome == 'success' || steps.direct.outcome == 'success'
         run: |
-          if ! git diff --quiet -- data/campaigns.json; then
+          if ! git diff --quiet -- data/campaigns.json data/direct.json; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add data/campaigns.json
+            git add data/campaigns.json data/direct.json
             git commit -m 'chore: update public RSS candidates [skip ci]'
             if ! git push; then
               echo '::warning::Branch moved during feed save; continuing to publish current collected feed.'
@@ -50,6 +54,7 @@ jobs:
           mkdir -p _site/data
           cp index.html _site/index.html
           cp data/campaigns.json _site/data/campaigns.json
+          cp data/direct.json _site/data/direct.json
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
