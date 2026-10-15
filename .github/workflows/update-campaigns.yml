@@ -38,8 +38,10 @@ jobs:
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
             git add data/campaigns.json
-            git commit -m 'chore: update public RSS candidates'
-            git push
+            git commit -m 'chore: update public RSS candidates [skip ci]'
+            if ! git push; then
+              echo '::warning::Branch moved during feed save; continuing to publish current collected feed.'
+            fi
           fi
       - name: Stage site
         run: |
