@@ -39,7 +39,19 @@ EXCLUDE = re.compile(
     r"参加費|応募費用|当選結果|当選者発表|受付終了|応募終了"
 )
 REGISTER = re.compile(r"会員登録(?!不要)|新規登録(?!不要)|アカウント作成|アプリ(を)?ダウンロード|LINE(友だち|お友だち)追加")
-SIMPLE = re.compile(r"フォームから応募|応募フォーム|登録不要|会員登録不要")
+SIMPLE = re.compile(r"フォームから応募|応募フォーム|専用フォーム|Webフォーム|ウェブフォーム|応募ページ|アンケートに答えて|アンケート回答で|フォームに入力")
+SNS = re.compile(
+    r"フォロー|リポスト|リツイート|(?:公式|アカウント|投稿|上|で|の)X(?:[（(]|[\s、にでを])|"
+    r"X[（(]旧Twitter|Twitter|ツイッター|Instagram|インスタグラム|TikTok|ティックトック|"
+    r"LINE(?:公式|友だち|お友だち|で応募|応募)|ハッシュタグ投稿|引用ポスト|ポストして応募",
+    re.I,
+)
+OTHER_STEPS = re.compile(r"店頭|来店|購入|レシート|応募マーク|クイズ正解|フォトコンテスト|アプリ(登録|インストール|ダウンロード)|新規入会")
+def detect_method(title):
+    if SNS.search(title): return "sns"
+    if OTHER_STEPS.search(title): return "other"
+    if SIMPLE.search(title): return "form"
+    return "unknown"
 RANK = [
     ("ギフト券", 105, r"Amazonギフト|ギフトカード|QUOカード|クオカード|PayPayポイント|えらべるPay|商品券|図書カード|現金"),
     ("家電・デジタル", 100, r"家電|テレビ|掃除機|イヤホン|ヘッドホン|スマホ|iPhone|iPad|タブレット|パソコン|PC周辺機器|モニター|キーボード|マウス|ドライヤー|炊飯器|コーヒーメーカー"),
@@ -113,8 +125,10 @@ def main():
             cat, score = classify(title)
             # Explicitly described signups are excluded; all remaining registrations are still UNVERIFIED.
             if REGISTER.search(title): continue
-            if "フォロー" in title or "リポスト" in title: score -= 18
-            score += 5 if SIMPLE.search(title) else 0
+            method = detect_method(title)
+            if method == "sns": score -= 35
+            elif method == "other": score -= 25
+            elif method == "form": score += 15
             cid = "rss-" + hashlib.sha256(link.encode()).hexdigest()[:18]
             kept+=1
             result[cid] = {
@@ -122,6 +136,7 @@ def main():
                 "organizer":"案内記事（主催者は要確認）",
                 "category":cat,"priority":max(0,score),
                 "registration":"未確認（応募先で確認）",
+                "method":method,
                 "deadline":None,"createdAt":date.isoformat(),
                 "source":source,
             }
@@ -140,7 +155,11 @@ def main():
         if allowed_link(link,source) and not EXCLUDE.search(str(item.get("title",""))):
             cat,score=classify(str(item.get("title","")))
             if not REGISTER.search(str(item.get("title",""))):
-                item.update(category=cat,priority=score,registration="未確認（応募先で確認）")
+                method=detect_method(str(item.get("title","")))
+                if method == "sns": score-=35
+                elif method == "other": score-=25
+                elif method == "form": score+=15
+                item.update(category=cat,priority=max(0,score),method=method,registration="未確認（応募先で確認）")
                 result.setdefault(item["id"],item)
     items=sorted(result.values(),key=lambda x:(x["priority"],x["createdAt"]),reverse=True)[:200]
     OUT.parent.mkdir(parents=True,exist_ok=True)
@@ -149,5 +168,7 @@ def main():
         "source":"Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
         "items":items
     },ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print("feeds:",ok,"/",len(FEEDS),"candidates:",len(items),"practical:",sum(x["priority"]>=80 for x in items))
+    print("feeds:",ok,"/",len(FEEDS),"candidates:",len(items),
+          "form-mentioned:",sum(x.get("method")=="form" for x in items),
+          "SNS-marked:",sum(x.get("method")=="sns" for x in items))
 if __name__=="__main__":main()
