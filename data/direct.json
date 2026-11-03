@@ -1,23 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:27:10+09:00",
+  "generated_at": "2026-11-03T12:55:10+09:00",
   "source": "Explicit publisher-owned pages; direct form URLs only",
-  "items": [
-    {
-      "id": "direct-shinyusha-kaden-2026-11",
-      "title": "家電批評 11月号 読者プレゼント（アンケート）",
-      "url": "https://from.shinyusha.co.jp/n/form/zrpb/YBDnzsL63vy2m4xasaHBR",
-      "officialArticle": "https://360life.shinyusha.co.jp/articles/-/52975",
-      "organizer": "晋遊舎（360LiFE公式）",
-      "category": "家電・デジタル",
-      "priority": 125,
-      "method": "form",
-      "direct": true,
-      "verification": "Publisher website links to this form; not submitted or checked for acceptance",
-      "description": "読者アンケートへの回答が必要。公式記事に掲載された応募フォームへ直行",
-      "deadline": "2026-11-02",
-      "registration": "会員登録不要かはフォームで要確認",
-      "source": "晋遊舎の公式ページ",
-      "createdAt": "2026-11-02"
-    }
-  ]
+  "items": []
 }
