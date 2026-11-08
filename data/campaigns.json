@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:45:18+09:00",
+  "generated_at": "2026-11-08T11:24:12+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
     {
@@ -13,6 +13,19 @@
       "method": "form",
       "deadline": null,
       "createdAt": "2026-11-02",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-a406a2c67264ac4d66",
+      "title": "「イケメンシリーズ」15周年記念作品が2027年リリース決定！IFCで事前登録開始、Amazonギフト券の抽選＆限定ア - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwa3ZyUXl2QUVZWmhJb2pPU0NOSmREYThpWkxnM2xHT055UjJZUS1RcmVsaDN4MHBKVmpzZVN2X1Y2d0dac0xsRi1iSWgtcHptNXBiUDE5UjAwVGtuMUU3YXN6NXBVSGlPSjk4bXZ4eHNGMlo0T203M0k1aw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-08",
       "source": "Google ニュース"
     },
     {
@@ -287,6 +300,19 @@
       "deadline": null,
       "createdAt": "2026-10-31",
       "source": "激安らぼ"
+    },
+    {
+      "id": "rss-fede9356f9ed77e25b",
+      "title": "抽選で「Amazonギフトカード」や「えらべるPay®」など3,000円分が当たる！クリエイターのための情報サイト「CREATIVE VILLAGE」秋のプレゼントキャンペーン'26がスタート!! - クリーク･アンド･リバー社",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zMHJzTDBHVGtOOXlHaDBpcXZGQ180ZTFyVnByMERLV0p1eWc5WTdmTkJ2U0cyaTJ4WjRBUG1UejFLelhWT0ZwQkVzLWVHNFBKcU9iRw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-10-30",
+      "source": "Google ニュース"
     },
     {
       "id": "rss-d84db81448b6732ea2",
@@ -1001,19 +1027,6 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-09",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-81722be5f7b06e5a20",
-      "title": "IT製品の導入に関するアンケート「サーバ＆ストレージ」編：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YQ1ZhVmcwV2RyWFExd3I5d1VwUHNiSWpxLU9uM0FpNUpZODB6UGhkMGhiUUhldU5fWTZOWXA2REVkMEo5cnFQWEpDUlU4d1RrclBCTUVqVk16RXZub1Y5cVIwOWpfU0dHc2czb1V6Rzg?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 105,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-08",
       "source": "Google ニュース"
     },
     {
@@ -2109,16 +2122,16 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-a1e14283f00dc75566",
-      "title": "【10周年プレゼント】コードレスで使える“スマート”サーキュレーターが当たる【家電批評②】 - 360LiFE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kQWVSblp1cEgwYU4zTGU0NUYwNDY1NjZzcG13cmRSTzZIaklQSDVlQXdYUWRaN243Qm5mNU12UnliSGpnakFiNDdNSGlTMndJNEt4Zk9Oam9KTF9p?oc=5",
+      "id": "rss-af971f33f73053a369",
+      "title": "【第1弾プレゼント】北薩摩のグルメなど豪華賞品を3名様にプレゼント - 天神サイト",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUTF1ZFVlaVVHb3R5S1lRZm9zSWJMVGl1bWJIa1I2bUxNV0lPM2NpRmFiVENqQ3VGWTcyQWdoV0V1c2JpUUhOTG9RbHFYOVl3cjA4?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-08",
+      "createdAt": "2026-11-05",
       "source": "Google ニュース"
     },
     {
@@ -2135,16 +2148,16 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-af971f33f73053a369",
-      "title": "【第1弾プレゼント】北薩摩のグルメなど豪華賞品を3名様にプレゼント - 天神サイト",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUTF1ZFVlaVVHb3R5S1lRZm9zSWJMVGl1bWJIa1I2bUxNV0lPM2NpRmFiVENqQ3VGWTcyQWdoV0V1c2JpUUhOTG9RbHFYOVl3cjA4?oc=5",
+      "id": "rss-5132365f2875e5a400",
+      "title": "ほっともっと、「ごはん大盛・中盛無料キャンペーン」を記念したプレゼントキャンペーン実施！（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3M3RLcjRFYkhkNFRscVl1WDI1RFRLNENmYm8xdWRLOTZ1TDg0YmFkbXpsVFcxTDk1M3FCVVJxM3RpLWxFU0oyLV9RR01qVDM0NlRzOVBwR1RVVnJZdHZlaDJ4dWJFVmZsV1JFSjNkSUFrajVRY3lVa01xcFo4NWM?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-11-05",
+      "createdAt": "2026-11-04",
       "source": "Google ニュース"
     },
     {
@@ -2587,19 +2600,6 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-16",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-dd87ef714229671283",
-      "title": "食欲の秋 グルメフェア開催記念プレゼントキャンペーン＞ SNSはなちゃん@チムニー宣伝部 - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TOFhoM0lXME5tQUgyR0NjRVJYcFFWYk1hLTQ2TWlvaVlGbnl2cnhCeWg5SG1Xal9Wa3M4NFJ4MG5KS1VjR0doazlPRC1DbVhsZTBRSQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
       "source": "Google ニュース"
     }
   ]
