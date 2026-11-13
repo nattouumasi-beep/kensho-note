@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:47:00+09:00",
+  "generated_at": "2026-11-13T12:23:35+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
     {
@@ -45,6 +45,19 @@
       "id": "rss-c444247a0f9b2be81b",
       "title": "IT製品の導入に関するアンケート「PC＆デバイス」編：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFTHJSSmpwcFUzSGxnOVRWSlNGX1VQeEpMdm9sbGtlNTIxX1ZmRFVCeTFJRmpvTnZoeU5xbUdjbTJrX1hIakxOXzNJdnY1eW9fSmM2WW12R0R3ekU0cHdGT2k0WUh6bkpFVHo2RXItdnE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-09",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-c3f8bc9784278e04c2",
+      "title": "「PC導入および現在のハイブリッドワークの課題」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GT1RCb0Z3Y0I4YmhOX2dzcmFxc0theEFnVkM5dW15ZkViWWswZG1FdnNEdkZmNGtERWU3Y2wtTHU3dkp0MC1wazVHNXpDZFZyS0gyTy1ONGIyVmdMRWtfUGlKamJTcEJsb3hLcGhtRlU?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -211,9 +224,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-81ad2313705dab7723",
-      "title": "【11月20日まで】LINE登録者限定アンケート実施中！ 抽選で20名様にAmazonギフトカードをプレゼント｜ニュース - 保健指導リソースガイド",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5a3ZLVnVyNm5sWEh1amVJYmhYXy1pNWNXSVZPM0p5ak9Ca25Zbk9BRTUzQTh4THdGOHNYM1M4YXYzQlVGSTRkRlIxM1JvcWQ4cGRkM2hXcmpCSVBiR29wY1c2dVozZWQx?oc=5",
+      "id": "rss-994acbf713466f0d66",
+      "title": "「エンタープライズAI活用・基盤整備」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NnZvRDJ2cmxfWWY0Q2dwV2dORTBVbnk0SUVLaVdBLVh6MnpvRUowa2E4V2lQazV5MDNJQ0dTdmlhWDNsRE90ZmlaRnlHbFNSbXVIWHBDa0lqdGdnbkowNGZxVjlCcW1aSElhamhtNGY?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -224,9 +237,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-994acbf713466f0d66",
-      "title": "「エンタープライズAI活用・基盤整備」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NnZvRDJ2cmxfWWY0Q2dwV2dORTBVbnk0SUVLaVdBLVh6MnpvRUowa2E4V2lQazV5MDNJQ0dTdmlhWDNsRE90ZmlaRnlHbFNSbXVIWHBDa0lqdGdnbkowNGZxVjlCcW1aSElhamhtNGY?oc=5",
+      "id": "rss-81ad2313705dab7723",
+      "title": "【11月20日まで】LINE登録者限定アンケート実施中！ 抽選で20名様にAmazonギフトカードをプレゼント｜ニュース - 保健指導リソースガイド",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5a3ZLVnVyNm5sWEh1amVJYmhYXy1pNWNXSVZPM0p5ak9Ca25Zbk9BRTUzQTh4THdGOHNYM1M4YXYzQlVGSTRkRlIxM1JvcWQ4cGRkM2hXcmpCSVBiR29wY1c2dVozZWQx?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -261,6 +274,19 @@
       "deadline": null,
       "createdAt": "2026-11-03",
       "source": "PR TIMES"
+    },
+    {
+      "id": "rss-2e64a9817ddb1897a6",
+      "title": "【投票でAmazonギフトカードが当たる！】「ベスト・ヘルスケア・アワード2026-2027」投票スタート - FYTTE",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KY1BDanY1ZGJ5akRIbGk4TnlhLTJlRTNUYWg5Q2tNSXZrbDlUS2dGRzBGTS1UamRvUGhJdV84VHZaUzFKVEMtZkNPakdwcTdh?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-02",
+      "source": "Google ニュース"
     },
     {
       "id": "rss-e04cfdf7a4f37c2ece",
@@ -341,9 +367,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-5921b9d6632aa2c6a7",
-      "title": "抽選で「Amazonギフトカード」や「えらべるPay®」など3,000円分が当たる！クリエイターのための情報サイト「CREATIVE VILLAGE」秋のプレゼントキャンペーン'26がスタート!! - クリーク･アンド･リバー社",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMldKWkhNelFRVWxsMkhIMk1NbF9mSmFLOWFVekxWazdSWDlOS2VDMVVkUmU1Q2J6bWZIUW5STmVZYUx2Z2ZZWnFYUUdCTVBpZ01tMg?oc=5",
+      "id": "rss-cdd6a211970b7d479e",
+      "title": "Amazon eギフトカード1万円分を5名様にプレゼント！ 『白銀の城』12月14日全世界同時リリース決定記念キャンペーン開催 - ファミ通",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Vi1lWEJCWjRScDZEeWVqR1pZNU5yVDcxcXRiUDVIQ1dBZWlMaXA1U3pMaWpvWktkX1VwYTh5TzNlNzUxYnZKMzNHSWVnTjlmQVhpTnpUMA?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -354,9 +380,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-cdd6a211970b7d479e",
-      "title": "Amazon eギフトカード1万円分を5名様にプレゼント！ 『白銀の城』12月14日全世界同時リリース決定記念キャンペーン開催 - ファミ通",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1Vi1lWEJCWjRScDZEeWVqR1pZNU5yVDcxcXRiUDVIQ1dBZWlMaXA1U3pMaWpvWktkX1VwYTh5TzNlNzUxYnZKMzNHSWVnTjlmQVhpTnpUMA?oc=5",
+      "id": "rss-5921b9d6632aa2c6a7",
+      "title": "抽選で「Amazonギフトカード」や「えらべるPay®」など3,000円分が当たる！クリエイターのための情報サイト「CREATIVE VILLAGE」秋のプレゼントキャンペーン'26がスタート!! - クリーク･アンド･リバー社",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BMldKWkhNelFRVWxsMkhIMk1NbF9mSmFLOWFVekxWazdSWDlOS2VDMVVkUmU1Q2J6bWZIUW5STmVZYUx2Z2ZZWnFYUUdCTVBpZ01tMg?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -1027,6 +1053,19 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-14",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-7f7f4712bb8960fa0a",
+      "title": "オトナの音楽情報サイト「MiQQe」開設5周年！Victorワイヤレスイヤホンなどが当たるプレゼント・キャンペーンを開 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBaG9TWjM0ZG85cy1EOVRvUjNFZ00tS3dhVDZCbU1Nb1lLS3lsdF81TU5yaVo5bWVxMXdyYS00QnktaUwxM0ItRWh4M2JKSVVTOXFWNzVWTU1tSFdfRXZybUl4bzdPSkZlb1lLYnhzaHBNM292ZEZWbFQzdw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 100,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-12",
       "source": "Google ニュース"
     },
     {
@@ -2213,29 +2252,42 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-b68a4db41ea2aeda55",
-      "title": "プレゼント｜帰れマンデー見っけ隊!! - テレビ朝日",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wTHJOOGxSa1hzS0xILW5YaWFDU3JKUFVFdTg0aFRRTklMUldzTWw3QmZxVkZWVmh6Vlo3eW84UVB5a2JacDVLQkY4WEp4QjUyWjRtdXpNOUl3QmotV2d3dEJn?oc=5",
+      "id": "rss-80f8afc81875bee454",
+      "title": "【岐阜中津川ちこり村】20年間の感謝を込めて、おせちやランチビュッフェのペア食事券が当たる記念キャンペーンを実施 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CR3R5YUhaSXVhLXZPZmVBRk9JXzE4NGZYUmotS3FXU3RsaVprc0JlcmtwdlRLTXozdWM5RWFTZ0lQWXVCZHV1NlgtT3J6ZW8?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-13",
+      "createdAt": "2026-11-13",
       "source": "Google ニュース"
     },
     {
-      "id": "rss-168c56389b3565c2e3",
-      "title": "「熱愛プリンス お兄ちゃんはキミが好き」25巻が本日発売！ 紙版レーベル移籍記念のプレゼントキャンペーンも実施 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Sa1FzQXBtcEFITjl0MUE0bnpyZzhLTkFMeTdFcHJNWDEtRjFDUmVxTTdFSlk4cDNwWFA5MFczdTlVaWVrVVFUOE9SM2Y3aXpPUjh1Y1N5eUdPd1lUQU1Z?oc=5",
+      "id": "rss-a720f3e2670433649e",
+      "title": "サッポロ生ビール黒ラベル「箱根駅伝缶」限定発売へ ヘアピンカーブや8区の選手をデザイン 「メモリアルセット」プレゼントキャンペーンも実施（オリコン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTjgwbVVET0pEUjJaVnFoenYxbS03eE1idWtYQ3FranJxdkxZbmZZOVVKXzdpZEZVU2hMeVR3b0JsNEZ2bGVSekZEbjN0dkNFdVNrM0xSQU40WW12VWhBM1dGZXN4T2F1VW5iU2taNlZhVUlmUHBCM3BoR0xIcmM?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-13",
+      "createdAt": "2026-11-12",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-0b043dff5935179c6c",
+      "title": "創業53周年『ニュー・クイック創業祭プレゼントキャンペーン』開催！「雪降り和牛 尾花沢」の豪華3段重など、53名様にお肉をプレゼント！53年間の感謝を込めて、肉の専門店が選んだ“ごちそうお肉”をお届け - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Wkc3LUxVZW4xMURtUDhSNnFZakNjc3BlaGJzWmxQbmJQNDdEbU5uYjRWRW5QWlpVakxlV2ZuNjdrVllnOWJrRlhWcVpMYzRCX1FSdGxzZm80dW5DNHJxc2J6aDVmV0wyRlE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 95,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-12",
       "source": "Google ニュース"
     },
     {
@@ -2379,6 +2431,19 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-11-03",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-28699cfffab811c898",
+      "title": "11/15(日)日本が誇る巨匠のスイーツ抽選会 - 家サイト",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XVEswckt2ZEwteFNESEVEcjc4QnN1RkdjWjB3cHV0bExKSHJmUjRnenZPOGdzLTJpd0tyWWZSN1liMjFMRDUzajRtMXE1dE1vTmw0Y1hScjMyMm1QbjlSZUNHWXk4N0Zv?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 95,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-02",
       "source": "Google ニュース"
     },
     {
@@ -2528,71 +2593,6 @@
       "id": "rss-db6b4ad7db1a1477ae",
       "title": "ポケモンと始めよう ! ピルクル習慣 ! プレゼントキャンペーン - 日清食品グループ",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40R3lNRnpUcUU2TmJCdzhQM1hYWFhHU05pNHc3VVAtV2xVTjNlbFdNeXpJV05hSkItbHQtZ3dncndvQXZFd2lkZWpBUU5FT0hiWGs1R1ZJRGx5djFL?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-26",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-8b5e563d1d4a468e12",
-      "title": "Xperiaユーザー向け「Xperia Lounge 秋の贅沢グルメ プレゼントキャンペーン」2026年11月19日（木）まで開催。黒毛和牛ローストビーフなど350名に当たる。プッシュ通知ONで全員にクーポンとポイント。 - ソニーが基本的に好き。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbVduZmplWVkyMzg3V0dFYzNsMkw3aDdMRjdkamtJMW5jb0s0bkFBM2F6RTI0bFkwM0lMdmRTVlNJUVJ4YUJmOV9VX1JVOU4wbWotdEdZYUZucGtDZy1BQg?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-26",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-c0f5aa945b3d0e3922",
-      "title": "「ポケモンと始めよう! ピルクル習慣! プレゼントキャンペーン」(11月1日からスタート) - 日清食品グループ",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BVFVZeDlDMnNUb2hKMjFnVmEzZVBEcHJlUmJyRkZPZ20tRkJsY2ZiN0NuSnVJcFZpNGs5eTJGbVhKTE1iTHpPTUtsQ0hGUnJoUHlIV3hjOEc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-26",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-2c8f18dbea82ce25d6",
-      "title": "ノジマ ハロウィンキャンペーン開催！おたのしみくじ付きお菓子をプレゼント！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11TlA2dWpYMktKalBjd1BWRUhGNU5SRTI1MTdYV2tSa3BCVGREWjU5RVo2am15MjRpVWE4cWZBTi01emVZaHhCRGc4VDA0cmNfVzBBeG9Fclg0OG5hZXRwQklscEQtNktwTnc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-26",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-17070ea082d8fabf35",
-      "title": "「ポケモンと始めよう! ピルクル習慣! プレゼントキャンペーン」(11月1日からスタート) - 日清食品グループ",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94Zk44QjdiWEowcmIzQUc1aENtZHRCRVRmOXl5U0JOX1J0eklnM0gySTZMUkEzY0JYaThuWU80N0lSV1R6akVqOXAyaWM2UQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-26",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-99d4d786bcdaf52450",
-      "title": "ノジマ ハロウィンキャンペーン開催！おたのしみくじ付きお菓子をプレゼント！ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmQzZYS24ydEFSRml3X0VUUExsS0NfMDNfVGF2OWxwOHU0NFRWRGRqZVY4NzgzSlItWkZObFZGdHh3LXAwODJ6Y3hpb1hOUkdhUXdvTzNGRDJscFA2WTZRa2dDa0E1X1R2eGIzd1FIa0djdEpidWprR0hqSQ?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
