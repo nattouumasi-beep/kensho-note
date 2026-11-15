@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T12:09:21+09:00",
+  "generated_at": "2026-11-15T11:37:05+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
     {
@@ -14,6 +14,19 @@
       "deadline": null,
       "createdAt": "2026-11-02",
       "source": "Google ニュース"
+    },
+    {
+      "id": "rss-41abf5d6de83411f90",
+      "title": "【セブン‐イレブン限定】店舗で買って、感謝を手渡そう。「今日の『ありがとう』に、QUOカード。」キャンペーン11月10日（火）よりスタート",
+      "url": "https://prtimes.jp/main/html/rd/p/000000362.000032053.html",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-15",
+      "source": "PR TIMES"
     },
     {
       "id": "rss-54cac7ee760b017c8e",
@@ -84,6 +97,19 @@
       "id": "rss-82deffa5ae18517145",
       "title": "「パズルde懸賞」シリーズ、PayPayポイント総額300万円分が当たる大抽選会を11月開催！当選数は過去平均の約55倍（オーテ株式会社） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMHpRc3QwdTAyUmxuRndVWWNkeC1sM0NoLTNQc3RkV3hLdVBfZUhMVHd0S3J5dWNMTTBxaklqTGJTVWVHby12Y2c0S01nQktTWk5LZktxMlUwWXN3eWdIYVlOS0l2M2RtZmlDRDNoSEg5ZGdWcWFfSEhOa19XNlE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-10",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-166dc6b283b4690bb9",
+      "title": "「パズルde懸賞」シリーズ、PayPayポイント総額300万円分が当たる大抽選会を11月開催！当選数は過去平均の約55倍（オーテ株式会社） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd292S1FibVBjTkxxVzNKcHhYOEdPZndURGlrdkt3QTJyY1NsNXg4bkEwQWZIanJGTW1BQzdSNGRnZlNpaFRoTkNYQzhfSEpHcW9fVEx6amJkeHAxQkdkcm1xZ29pTm40U2ZKckMwN0RZeDlTeElPUko3djlTM2NuV3pCV1dUSDN2WW0zdmhB?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -211,6 +237,19 @@
       "source": "Google ニュース"
     },
     {
+      "id": "rss-13733c0d02f1c23588",
+      "title": "【投票でAmazonギフトカードが当たる！】「ベスト・ヘルスケア・アワード2026-2027」投票スタート - FYTTE",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGV21zaVJSOEk3RWVxdFhlc25PcE1UNzRab2g4UHlLN1J6bE9RNlh0SDZmR0lSa256ZzFmenBRTXN0NElva2VHUWtn?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-05",
+      "source": "Google ニュース"
+    },
+    {
       "id": "rss-feff568fb85747e9ab",
       "title": "【11月限定】安楽亭・七輪房・花炎亭で最大6％戻ってくる！PayPayポイントプレゼントキャンペーンを11月7日(土）より開催！ - PR TIMES",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GUVJKRHA0c0hxZkQwMDlrWGRsX1Z5UzcteEp6dDhjaVBwY1VyRDIxanpTVVVadEMxWHIwajREMGtBVDl5TmJGYVpkNURtVUlGOGdaLUtyeGJPak1HNkNEdE14ZldPOFpUeHc?oc=5",
@@ -276,9 +315,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-994acbf713466f0d66",
-      "title": "「エンタープライズAI活用・基盤整備」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NnZvRDJ2cmxfWWY0Q2dwV2dORTBVbnk0SUVLaVdBLVh6MnpvRUowa2E4V2lQazV5MDNJQ0dTdmlhWDNsRE90ZmlaRnlHbFNSbXVIWHBDa0lqdGdnbkowNGZxVjlCcW1aSElhamhtNGY?oc=5",
+      "id": "rss-81ad2313705dab7723",
+      "title": "【11月20日まで】LINE登録者限定アンケート実施中！ 抽選で20名様にAmazonギフトカードをプレゼント｜ニュース - 保健指導リソースガイド",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5a3ZLVnVyNm5sWEh1amVJYmhYXy1pNWNXSVZPM0p5ak9Ca25Zbk9BRTUzQTh4THdGOHNYM1M4YXYzQlVGSTRkRlIxM1JvcWQ4cGRkM2hXcmpCSVBiR29wY1c2dVozZWQx?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -289,9 +328,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-81ad2313705dab7723",
-      "title": "【11月20日まで】LINE登録者限定アンケート実施中！ 抽選で20名様にAmazonギフトカードをプレゼント｜ニュース - 保健指導リソースガイド",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5a3ZLVnVyNm5sWEh1amVJYmhYXy1pNWNXSVZPM0p5ak9Ca25Zbk9BRTUzQTh4THdGOHNYM1M4YXYzQlVGSTRkRlIxM1JvcWQ4cGRkM2hXcmpCSVBiR29wY1c2dVozZWQx?oc=5",
+      "id": "rss-994acbf713466f0d66",
+      "title": "「エンタープライズAI活用・基盤整備」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13NnZvRDJ2cmxfWWY0Q2dwV2dORTBVbnk0SUVLaVdBLVh6MnpvRUowa2E4V2lQazV5MDNJQ0dTdmlhWDNsRE90ZmlaRnlHbFNSbXVIWHBDa0lqdGdnbkowNGZxVjlCcW1aSElhamhtNGY?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -328,9 +367,9 @@
       "source": "PR TIMES"
     },
     {
-      "id": "rss-2e64a9817ddb1897a6",
-      "title": "【投票でAmazonギフトカードが当たる！】「ベスト・ヘルスケア・アワード2026-2027」投票スタート - FYTTE",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KY1BDanY1ZGJ5akRIbGk4TnlhLTJlRTNUYWg5Q2tNSXZrbDlUS2dGRzBGTS1UamRvUGhJdV84VHZaUzFKVEMtZkNPakdwcTdh?oc=5",
+      "id": "rss-277ca9a83388d3c42d",
+      "title": "「データのバックアップ」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tcGhuWm9fcE1rUENiN1V0Nmp1SnBXemlESnU0amlyNS01THlDX01uTVJSZ2cyaFFONXZ1RTZoNDZEM0dEaXhNT21ndjh1RnI0eHVSN2JoanpMZjBqQ3U4Q20zUTFVczB0M0k2Q25pQl8?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -354,9 +393,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-337b7ad28e4767ac7b",
-      "title": "Joshin、阪神タイガース応援大感謝セール - 1万円分のギフトカードが当たるSNS企画も - マイナビニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcVlQdDNOalR6VUg4dXRLWkJFNldGVmJ3MWJzWktlc0ZqNGhWYkY3clB3YXg4VG1ZdzJnMEZVOVNBN25LN1V0a2FXNXRyU0hhUGJYUy1wTzV2U25k?oc=5",
+      "id": "rss-2e64a9817ddb1897a6",
+      "title": "【投票でAmazonギフトカードが当たる！】「ベスト・ヘルスケア・アワード2026-2027」投票スタート - FYTTE",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KY1BDanY1ZGJ5akRIbGk4TnlhLTJlRTNUYWg5Q2tNSXZrbDlUS2dGRzBGTS1UamRvUGhJdV84VHZaUzFKVEMtZkNPakdwcTdh?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -367,9 +406,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-13733c0d02f1c23588",
-      "title": "【投票でAmazonギフトカードが当たる！】「ベスト・ヘルスケア・アワード2026-2027」投票スタート - FYTTE",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBGV21zaVJSOEk3RWVxdFhlc25PcE1UNzRab2g4UHlLN1J6bE9RNlh0SDZmR0lSa256ZzFmenBRTXN0NElva2VHUWtn?oc=5",
+      "id": "rss-337b7ad28e4767ac7b",
+      "title": "Joshin、阪神タイガース応援大感謝セール - 1万円分のギフトカードが当たるSNS企画も - マイナビニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcVlQdDNOalR6VUg4dXRLWkJFNldGVmJ3MWJzWktlc0ZqNGhWYkY3clB3YXg4VG1ZdzJnMEZVOVNBN25LN1V0a2FXNXRyU0hhUGJYUy1wTzV2U25k?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -1079,6 +1118,19 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-16",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-6e1823ce897a399d44",
+      "title": "オトナの音楽情報サイト「MiQQe」開設5周年！Victorワイヤレスイヤホンなどが当たるプレゼント・キャンペーンを開催 山田全自動氏の新作イラスト、音楽業界の舞台裏に迫る新連載もスタート - JUNGLE☆LIFE",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVM0c5cXhHRGJ6Skstcm9rd01jeWp5V19RR1pnQ3ROallNd0p6WFpPVElFOUZIMThWSGlKZDFyVlBfV21xZUsyaElDOFVqQmFrMjlWYUJScw?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 100,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-13",
       "source": "Google ニュース"
     },
     {
@@ -2122,126 +2174,35 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-396585ba6ce0e4f345",
-      "title": "家電EC「XPRICE本店」にて、10月15日より年に一度のBIGイベント「エクトク大還元祭2026」を開催！最大30%OFFや毎週金曜の超特価や豪華賞品プレゼント等お得なイベント多数！ - au Webポータル",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XTlcxNHEzQ1I5SEhKcFJveTBPNzFMTVVPaTR6QVFwS2tudGtsdjdzM1JlQmZ2NGF6eEppd1VLNzQxYW9GcmN5QXR4bG9uc0VOUUMtdHVEQk9jQzg3ZEFBdUVyX19iaHktUnFsQzRn?oc=5",
+      "id": "rss-449c05671bc6538eb5",
+      "title": "【11月14日～30日限定】エコスタイル、宅配買取で1万円以上の買取成立で「選べる贅沢グルメカード2,000円分」をプレゼント",
+      "url": "https://prtimes.jp/main/html/rd/p/000000080.000039331.html",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
+      "createdAt": "2026-11-15",
+      "source": "PR TIMES"
     },
     {
-      "id": "rss-c755dd9c56099a8d2a",
-      "title": "グノシー、ニュースの先を予想する新機能「グノシー予想」提供開始 的中者には抽選で家電ギフト - ライブドアニュース",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMmNuUF9oU192RERIdklmeF9JMVVBRUFjYnRKbzBkMmp0WjlPbU9vUHJKdHZjLXAteEd0Yzh3ZHRoYkQwdkJKdkdJWm9DM2FKeHVyTFRwdXBpN0JPdEtF?oc=5",
+      "id": "rss-78ef258efd476fac45",
+      "title": "【11月14日～30日限定】エコスタイル、宅配買取で1万円以上の買取成立で「選べる贅沢グルメカード2,000円分」をプレゼント - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpalFueUxoTWIwZ0NDMjRMOXZxcncwZkg2TGhoSVZnVll3MWN3RXo0VHYycVhNQ1ZZajZjazZfeEhTQzFBVXlDQUlDSTRTX19ITG4zS0F2d1pxTzBJam5ySFRmUVFtM1Bpd1E?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-15",
+      "createdAt": "2026-11-14",
       "source": "Google ニュース"
     },
     {
-      "id": "rss-a948f2b1820d3d4ba2",
-      "title": "【10周年プレゼント】最強コスパのワイヤレスヘッドホンEarFun「Tune Pro」が当たる！【MONOQLO②】 - 360LiFE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGMXB3XzBPV3ktVXV3c0xfck5oVEhvdktmU2dBLXRqdEhJLTFBeDI0bml5elJjdTRnQ2haMGo2dmdCSUtGOFl6eHdoczdCZjZZOGl3YUM2dUxiLVVI?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-db8a9df482e944e5a2",
-      "title": "家電EC「XPRICE本店」にて、10月15日より年に一度のBIGイベント「エクトク大還元祭2026」を開催！最大30%OFFや毎週金曜の超特価や豪華賞品プレゼント等お得なイベント多数！ - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUnJCQVh6aFo3eENLZXVLNjdrN1NpOWJDODNNMGxhYWNHRTlMa3NERFJ3ZTVQa2Fqd3hXb1V4UlVvWWJHSUVEN3llbnQ2RDItMmtlV3NTYVI4ODdMSDQw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-846bb0e7dce9648d6f",
-      "title": "折りたたみスマホの大画面で「LINEマンガ」が楽しめる！Samsung Galaxy Z Fold8シリーズ ＆ LINEマンガコインプレゼントキャンペーン - valuepress",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9udTI3aGdBa2JlOWVmX2tZaXRQYzlmd2N0dlktWVhBV3JpQ2FBWklBLXlnZjNsUTlXWjdZNmtDSjZCOEtpNmxjUmdhNkZ4VjlRbE5pTGZFSXI3eEU?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-499404ff8399afe432",
-      "title": "ダイアン×トムとジェリーの限定コラボ♡3種のヘアケアとプレゼントキャンペーンが登場 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13M19RNGdjQTUzYUJhaFN4UFJyQlRrQjlsZDlUWFVZWUhOanAxVzlmUFRQb2NXMWVwaFgzYjAtQzV0RTNvd3JnZjBxRHRJQWNQX2NZLUplTlg2MWZHb2VV?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-981cf902e600cfac40",
-      "title": "グノシー、ニュースの先を予想する新機能「グノシー予想」提供開始 的中者には抽選で家電ギフト - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DeVFFSHhNdTBKeTh3X1cyemZzQ0dyNGlBSmk0cjI1UTBiY1JoY2wyOV9rRmt3V084dF9fVkZBaVRxWVU3QWs0eE9xWXViN3BJdFExdlRuaWNCTThwS0gxMzR5MUx3QXd3UUFRUVVMY1F2bWc2QkJvT0RBOA?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-d5c86e1f47dae05959",
-      "title": "折りたたみスマホの大画面で「LINEマンガ」が楽しめる！Samsung Galaxy Z Fold8シリーズ ＆ LINEマンガコインプレゼントキャンペーン - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiaGZwSTRuVU44NU1KZjV3SlBaQ0RmTVNPUDFiOWdNeTN1MWNHRGV5ZTJPek1adDBKWHAxYkI2ZG8wenJULUFMZ3NDd091MWJ4M3hUOFdlaTF5TmMtN3FJV2l0VHZMeVRKMGc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-b8699f2ebeec031cd0",
-      "title": "【PR TIMES ネットサービス・アプリ 出版・アート・カルチャー】折りたたみスマホの大画面で「LINEマンガ」が楽しめる！Samsung Galaxy Z Fold8シリーズ ＆ LINEマンガコインプレゼントキャンペーン - 茨城新聞クロスアイ",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3Nnp3aEpxbUU4TmpHcUYzMmZhdFExNUZDWllnYTBlQjd5S0RxZFNvYy0zUHYwRVh1cW85bTBLaWRtdnpTcS1XajBGaTRyZk9xUk9uX1h2bW8taVJ5RURYSUdFdlloVktqcGo1dnVPX3FKSkVSemVlcA?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-15",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-80f8afc81875bee454",
-      "title": "【岐阜中津川ちこり村】20年間の感謝を込めて、おせちやランチビュッフェのペア食事券が当たる記念キャンペーンを実施 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CR3R5YUhaSXVhLXZPZmVBRk9JXzE4NGZYUmotS3FXU3RsaVprc0JlcmtwdlRLTXozdWM5RWFTZ0lQWXVCZHV1NlgtT3J6ZW8?oc=5",
+      "id": "rss-73bbe2d8761d4ef1df",
+      "title": "和食さと、抽選で5名に「JTBトラベルギフト」1万円分が当たる！ 「北海道を満喫」プレゼントキャンペーン第2弾 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eWh5Sml2MUhjUVJ3aGJveGt5QzVnaml6OVl4M1hvMWp6N0hjNUxTaHJwRmNHanFBS3FGYlYyQTRrc2lxS0pnNWhXaElBZm93VW1kUTlnZjB4b3Y3aExkZVJxOFVBRTZQdnc?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
@@ -2252,9 +2213,22 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-73bbe2d8761d4ef1df",
-      "title": "和食さと、抽選で5名に「JTBトラベルギフト」1万円分が当たる！ 「北海道を満喫」プレゼントキャンペーン第2弾 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0eWh5Sml2MUhjUVJ3aGJveGt5QzVnaml6OVl4M1hvMWp6N0hjNUxTaHJwRmNHanFBS3FGYlYyQTRrc2lxS0pnNWhXaElBZm93VW1kUTlnZjB4b3Y3aExkZVJxOFVBRTZQdnc?oc=5",
+      "id": "rss-210a7613d8ee93c5d7",
+      "title": "【岐阜中津川ちこり村】20年間の感謝を込めて、おせちやランチビュッフェのペア食事券が当たる記念キャンペーンを実施 - valuepress",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MaGxtLVN4dkMtVmpVOENyczlLbTFpYWc4NWpaQ3hNcWtLRHItZE1xemR3RUhPUlAzdExKYUhBWFNaeHgtWWlBMzhrb2w2UGF0VDF6TF9pMmV0Yzg?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 95,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-13",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-80f8afc81875bee454",
+      "title": "【岐阜中津川ちこり村】20年間の感謝を込めて、おせちやランチビュッフェのペア食事券が当たる記念キャンペーンを実施 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CR3R5YUhaSXVhLXZPZmVBRk9JXzE4NGZYUmotS3FXU3RsaVprc0JlcmtwdlRLTXozdWM5RWFTZ0lQWXVCZHV1NlgtT3J6ZW8?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
@@ -2278,9 +2252,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-2a2361dde5abfa1561",
-      "title": "創業53周年『ニュー・クイック創業祭プレゼントキャンペーン』開催！「雪降り和牛 尾花沢」の豪華3段重など、53名様にお肉をプレゼント！53年間の感謝を込めて、肉の専門店が選んだ“ごちそうお肉”をお届け - 時事ドットコム",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KY0pWVGFCU3J4QzdINGJkUjZLbDJCQWhVaDZ6RVFyZ1hxUVZMSnlxRjdnR21VTXM2SUhFQUtJZURzV1p0VWdOdmduUzNhLTdvUGpVSlhOQ2R5SElQdE9zdC13ZENnUXBuQW9r?oc=5",
+      "id": "rss-41bd50b62e4805b493",
+      "title": "限定ビッグバッグのプレゼントも【カインズ】13日間の「ブラックフライデーセール」が11/11より開幕。大容量洗剤やビールがお得 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmhxMXRnX0ZEYnFOeTFYZjJuY0xHV2NTUFQtUWc1a2xZQjFuUzhscVRkUklZT3BwNkNSbTdfODNDOTNuMnN3aWxiWVpveTJLaU1OUjQ1aVNwR3UzLUhpTnAxS3BzZEJIUTlTRjhOWkxXazdnNkRtNEEyY2VLeFJNTXhka2ltajZk?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
@@ -2294,6 +2268,19 @@
       "id": "rss-a720f3e2670433649e",
       "title": "サッポロ生ビール黒ラベル「箱根駅伝缶」限定発売へ ヘアピンカーブや8区の選手をデザイン 「メモリアルセット」プレゼントキャンペーンも実施（オリコン） - Yahoo!ニュース",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTjgwbVVET0pEUjJaVnFoenYxbS03eE1idWtYQ3FranJxdkxZbmZZOVVKXzdpZEZVU2hMeVR3b0JsNEZ2bGVSekZEbjN0dkNFdVNrM0xSQU40WW12VWhBM1dGZXN4T2F1VW5iU2taNlZhVUlmUHBCM3BoR0xIcmM?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "食品・飲料",
+      "priority": 95,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-12",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-2a2361dde5abfa1561",
+      "title": "創業53周年『ニュー・クイック創業祭プレゼントキャンペーン』開催！「雪降り和牛 尾花沢」の豪華3段重など、53名様にお肉をプレゼント！53年間の感謝を込めて、肉の専門店が選んだ“ごちそうお肉”をお届け - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KY0pWVGFCU3J4QzdINGJkUjZLbDJCQWhVaDZ6RVFyZ1hxUVZMSnlxRjdnR21VTXM2SUhFQUtJZURzV1p0VWdOdmduUzNhLTdvUGpVSlhOQ2R5SElQdE9zdC13ZENnUXBuQW9r?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "食品・飲料",
       "priority": 95,
@@ -2600,6 +2587,19 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-28",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-8b537cf9db444060a4",
+      "title": "フォルクスワーゲン×「ウォーリーをさがせ！」2027年版オリジナル壁掛けカレンダープレゼントキャンペーン実施中 - Car Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Lc3c3RkIxYjhxdnotZE5DSGJRNkhfeGxFOHFpZ2lXbFlYUEtuOWFOWUdkTjRXeHpma3JLZWJzRWFrVlZtNW1HZWxYT3NDOXBiSG90RHZUSjlHNklGQktGUmNIaWk?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "日用品",
+      "priority": 85,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-09",
       "source": "Google ニュース"
     }
   ]
