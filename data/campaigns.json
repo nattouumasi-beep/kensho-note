@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T14:03:30+09:00",
+  "generated_at": "2026-11-18T13:14:01+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
     {
@@ -16,9 +16,22 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-e3c346d107a690f19e",
-      "title": "パパ友がほしいので「パパ友割」はじめます。制作費の10％をパパ個人にAmazonギフト券で還元します。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000022.000017375.html",
+      "id": "rss-dac5c97379fd4ee29c",
+      "title": "ほっともっと、JTBギフトカード10万円分などが当たる「冬の旅プレゼントキャンペーン」実施 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MHZSOW40Wnl6b3FEcmxpdjNnUUo4U3VMUnJ3T2VUNDRCb0FTZEF5NXF4RjV5Q2ZlTFVvYUJJbmYzdGpGam9rb0xiVWdoZUQwTXBFZklVbW5fUldoRU9tTDJEVVlmdUZXSlE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-18",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-3a1f1aa060ee5794e8",
+      "title": "【抽選でアマゾンギフトカード当たる！】#uniqueotaフォトキャンペーン2026開催中！ - 大田区",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakhLSThwNkhGU3otY3ZqbURvTmV0ejVwczdDVXBDVTBIeVJTeThVblFIZW5xandjdDc0NnNGdkpZbjlnbmU2MWl0Zy1OWkIxeFJfVExNYWJVZzR6RDktcUNkV1NHRE1XdlBUWlFXclUyd2hxbmloblh6N25MZVExYlJLTVNZaDhCUW1v?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -26,7 +39,7 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-11-17",
-      "source": "PR TIMES"
+      "source": "Google ニュース"
     },
     {
       "id": "rss-f441dbf482d6b89012",
@@ -40,6 +53,58 @@
       "deadline": null,
       "createdAt": "2026-11-17",
       "source": "Google ニュース"
+    },
+    {
+      "id": "rss-f7c48355bdbd8baaf0",
+      "title": "【アニメ！アニメ！読者アンケート開催】抽選でAmazonギフトカードをプレゼント！ 1枚目の写真・画像 - 超！アニメディア",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDU1TUt0M0ljUmF1bVJ6ZGlNR0d5TnRCMnRGQ0ZyOGwxZkFlbjJKSmxqNEYzS05kNjJDQjBPY0pnNk45MDZmbkZJMUgtZjd3Uzd3Vm5LT0xfYWl4QUg2dEdOYzE1QkxoS0c5UmNodWw4MFk?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-133c7a23c6cf7a82ad",
+      "title": "「業務利用PCの導入および活用実態」に関するアンケート：抽選でAmazonギフトカードが当たる - TechTargetジャパン",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mME5ENm54aXNzTDBMbXNVaElXQTZvVWUxbmtIbDRPQW43VWNtUFpMNHJfdWU4M29RN2tMNFNoX1FWTXYzZlNHdE9EUXBpNE1LWGV5ejAyMS0yNkFtS1RmNjQ2XzlQU2ZIWjNQTEE0VGU?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-3b867b9983241cb2b3",
+      "title": "「KRUPS by T-fal」上陸記念キャンペーンで「QUOカードPay」をプレゼント - kakaku.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DT05Fam9vYVFvbUJYYlFJNUFqX0lpeVdkdWNJRW5qbVBXdTZfTW9HTHktMDNSVjFQNkJESFo2VUM5WkNYdzBGY1psRm5rc0hnYml1YnFoS2VTaU05NFBCSVBGWnprN2JFc01aMlZB?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-e3c346d107a690f19e",
+      "title": "パパ友がほしいので「パパ友割」はじめます。制作費の10％をパパ個人にAmazonギフト券で還元します。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000017375.html",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "PR TIMES"
     },
     {
       "id": "rss-c869a3511c9b8ccdab",
@@ -105,6 +170,19 @@
       "deadline": null,
       "createdAt": "2026-11-16",
       "source": "PR TIMES"
+    },
+    {
+      "id": "rss-34253cc11a358f8761",
+      "title": "外来カミキリムシ通報して１万円もらおう！県が＜懸賞金＞つきの取り組み実施中…県に発見場所を報告・件数上位に商品券プレゼント（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YUTczRWFIOW1uZlZkY0dmaWgzTWIwVE9DNFJ3UHE0amV2MkJIbUtNRm5iZi1wYlBGRkVUMW0zdUp0ZzMxQkE1YktSc2NROVNrdkZWLWhYXzE4cjFpeFFIOTBvQkw4SjRNNm5jNEhJWk41SEFrNjRYQnRiSm8wWEU?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-15",
+      "source": "Google ニュース"
     },
     {
       "id": "rss-3fcd31262dec24d33b",
@@ -1199,6 +1277,32 @@
       "source": "Google ニュース"
     },
     {
+      "id": "rss-dbfc9cecef215e107d",
+      "title": "【DE・MON】ブラックフライデー先行セールを11月17日より開催！全商品15％OFF＆期間限定60日間トライアルを実施、SNSプレゼントキャンペーンも同時開催 - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81MEg1Q2tfamRzYnktZ0hzTTJ0WUgyclNlMWNxTjlpNU44anZpdU5RT0ppUmFaUklFd1lSZloxNzBvSWpiY0E3NnRMenJ0OFNiVld0UGtzMmZiTlUxaVBB?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 100,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-18",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-bd3ab3456074c40f9b",
+      "title": "【富士山遭難で懸賞金】閉山期の山梨側登山で不明中国人男性親族が発見者に“1200万円”支払い表明…警察は捜索継続と注意喚起（Daiichi-TV（静岡第一テレビ）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sQzlhRHhKSFdkcG9wUVdCc3k1dWN2OVQwSVFMdEtZZnhUQXlsZkJXN1A4NWlqdU53N1E1bTNKWWlNRlVGTWRhRTdLZ3hvZHBEVllxNXZNQkV5blAwcFhjalRnczNOX3gtYkQzVVpNMGtLN0VfckhRSjhlcEJTQ3c?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "家電・デジタル",
+      "priority": 100,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
       "id": "rss-143bc682f2164fc96b",
       "title": "【徹底比較】プレゼント向けの家電のおすすめ人気ランキング【2026年11月】 - マイベスト",
       "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBrLVpBc1pEZVNqM1lnclVHR0JRdkRzVUUyUjdHYnVzM1g1eFhZUl9qRWxoTm5URzRIUTJ0WTRB?oc=5",
@@ -2161,19 +2265,6 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-4649919aab38c30373",
-      "title": "21日(水)よる７時スタート！「THE FLOOR」プレゼントキャンペーン - テレビ金沢",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EbmJCT3FRWFZQdFQ2TEJQRmRvQWhyeGx2NVBvNmFhN2F4ZFNaZmZySkoyR0diVFcxcVhHMy1OUHRvTXBPX0R2R2pIaTdiUjgxdG5FZURlTm5maUdmbk5ha3N2UQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-18",
-      "source": "Google ニュース"
-    },
-    {
       "id": "rss-51521779b8d2356940",
       "title": "「Jagabee」20周年、限定パッケージと「しあわせバタ～」再発売で祝う。イベントやプレゼントキャンペーンも - グルメ Watch",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cFpwNUtsZ3FCTkVOb1ZjRnJReGlxek10b29GdXphUTkzbXV5UjI1WE43aDdwV1BndF81R3NiNzUxRnhtbWhlRloyM3BESkJMRHEzYjFhTGZlOHZsTERKZ2lCNmxkMzViTEE?oc=5",
@@ -2509,97 +2600,6 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-a214ae9426000daf85",
-      "title": "森永製菓「マリー」を再現したふわふわの「マリーブランケット」プレゼントキャンペーンを実施 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tY0JHd0lkMFl3Sk41MVcwSGhfWFRfbzNHekIzaWRTaEF6WXBPZF81aDhuRVJQVWhucUZDanhXemZ5YzBiMlhOaVhjQjljSlJvY3FneTNqYW9FbE0xcENQbmp2bDJ4UXZLTUE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-cd529e652b66d647bf",
-      "title": "森永製菓「マリー」を再現したふわふわの「マリーブランケット」プレゼントキャンペーンを実施（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fd2UwQi1hZ2ZSY1JwOUtabEsyUVFISlBxekkyOHFmSTJrbW1NR04tMzM0M3A0UmUzamltMy1USlJ2UmdrLThUWlRWNTFhRmVfOXg5MEF0UTBZZE9ENmpGNmhESFZ4Ulk2Q05HcHRObExscDVtQVVqaHNSYWdMcWc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-efb695934ad462bf78",
-      "title": "「やよい軒」公式アプリ限定！やよい軒のお食事券が当たる！店内BGMオリジナルコンテンツ「ミュージックギグ」プレゼントキ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oYkhCYkxBU3ZxS3VCZ0owYmRDbWZuVFJDa0FOanlrbGJ5RUdZXzVUUklNd2J3NFB5aDNnRkdLZ1gzRjhHU3Nzbkd6ZDJDVm1XbFdJcw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-ce2c1f7a11980abf8f",
-      "title": "「やよい軒」公式アプリ限定！やよい軒のお食事券が当たる！店内BGMオリジナルコンテンツ「ミュージックギグ」プレゼントキャンペーン実施！ - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YWFpBWkIwQkdFbWtMZC0tdVF1cXMweFBhS2s2ZGpXNlBZejg2aWxHNFJTWlM2TUF6ckRQemFhZWFvRWdhYkNCQzB1QkhPalIybmt3cml6UDh6Wm5NeDFLaGd1ejJQMm4xVkE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-b6bac6e8684a259259",
-      "title": "「やよい軒」公式アプリ限定！やよい軒のお食事券が当たる！店内BGMオリジナルコンテンツ「ミュージックギグ」プレゼントキ - ニコニコニュース",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQ0kzZGN3dWhIcVBWNDdHeXFDX1E5X3RiQVE1WXdhSGZGRENGYTBuVHg3T1I3WEZqVk1adl83S3VCY1hJWE51VjZWNDJCak9MUXg2YUxKZkwwSkNaSm82OHctaDV1MTdhVk9CZTdZZDFOa1FBTlQ5Rm05VQ?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-29",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-67b382bc07a6e698ed",
-      "title": "王将フードサービス[9936]：「生ビール（中）割引券プレゼントキャンペーン」実施のお知らせ 2026年10月28日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LbHhSZkZlbzFMblM3ZUZyc2Z1TXlvUmthMV9BSzJaWVRHVmQ5X1RkbDJJRlJ4OGJGRHhSNE5wemRRaTU1RkQ0dXN5WEVqTDhIbDgtM2x1QWRJdzVfRFdZQlBVS1otWHBvcXc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-28",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-901b1f7b92f3b4596a",
-      "title": "【レポ】おうちがスタバに?!二子玉川で「ネスカフェ ドルチェ グスト ネオ」無料体験イベント開催中、コーヒーの試飲や限定プレゼントも - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XTVJxS3hVSlJjc2VsUGphSXMyOVZZUVI3QU50TUxVaUlEVXRJV2xHS29WYVR3TUFleThVLTNmempsT1NVbVhKdkZGeTRVTkp2VHF1VFJFVUtkOGFBYmRZMHlKdXAybHdYcnN5b2VIVnhway1VRDJ30gF3QVVfeXFMTldNUnFLeFVKUmNzZWxQamFJczI5VllRUjdBTnRNTFVpSURVdElXbEdLb1ZhVHdNQWV5OFUtM2Z6amxPU1VtWEp2RkZ5NFVOSnZUcXVUUkVVS2Q4YUFiZFkweUp1cDJsd1hyc3lvZUhWeHBrLVVEMnc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "食品・飲料",
-      "priority": 95,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-10-28",
       "source": "Google ニュース"
     }
   ]
