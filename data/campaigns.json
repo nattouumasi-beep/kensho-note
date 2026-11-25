@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:56:01+09:00",
+  "generated_at": "2026-11-25T14:24:43+09:00",
   "source": "Public PR TIMES, Google News, and giveaway blog RSS; candidates unverified",
   "items": [
     {
@@ -13,6 +13,32 @@
       "method": "form",
       "deadline": null,
       "createdAt": "2026-11-02",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-5fca5fb5a9c6e62479",
+      "title": "Mastercard×Apple Payでタッチ決済！ JUN OSON限定壁紙が全員に、抽選でギフトカード3万円分も 11月26日から - AppBank",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kUHRCWnpsU1dEU3hoWVhwX215N0VBaEpiZENTamZkQVZURmlkTnZiTk5GbEF1QkFmcXBnVTRVMFZDWUp3YjVJbHBjbnhnZWp5UHgwaXBJb3ZwTl9OM3dlYnhZWTk4RXMteEE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-25",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-a96ac6e3547b42a8e2",
+      "title": "「引越れんらく帳」×「ペンリィ」サービス連携記念 Xの『引越しのひとコマ』でまちがいさがしキャンペーンを本日開始 キャンペーンに参加して抽選で100名様にAmazonギフトカード1,000円分が当たる - 千葉テレビ放送",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4S1htdVVVbGRJRkdVRU9JTU9FNTZqajllSkFSU2tFSXE0RTNXYjQyQ3NzU3pPNm1VQUM2WnZRVGV5UmVGUkNQWHV6Z0M4VVFOTWhRUy1QRGtITnozenpERng0enk?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-25",
       "source": "Google ニュース"
     },
     {
@@ -146,9 +172,22 @@
       "source": "激安らぼ"
     },
     {
-      "id": "rss-bf168716727742bdaf",
-      "title": "ほっともっと、JTBギフトカード10万円分などが当たる「冬の旅プレゼントキャンペーン」実施（グルメ Watch） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNDBGQ00tWlh0WElYVjRzYS04VEJtOEgxOElldFRaNGZFYUd0c25zaE9jOVAyZ0prcXdoZC0yeHlkQ19FeGdiMGpGbzlxYmI1d1NuRkRDcFV5TkhRZnBlSkdRME9Wbk8tZ0l2NTNOMWFlR0tnRmlYUUJLN1ItY2M?oc=5",
+      "id": "rss-dac5c97379fd4ee29c",
+      "title": "ほっともっと、JTBギフトカード10万円分などが当たる「冬の旅プレゼントキャンペーン」実施 - グルメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MHZSOW40Wnl6b3FEcmxpdjNnUUo4U3VMUnJ3T2VUNDRCb0FTZEF5NXF4RjV5Q2ZlTFVvYUJJbmYzdGpGam9rb0xiVWdoZUQwTXBFZklVbW5fUldoRU9tTDJEVVlmdUZXSlE?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-18",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-172f6d82932bec6d33",
+      "title": "「短時間の設備停止（チョコ停）の現状と改善の取り組み」に関するアンケート：抽選でAmazonギフトカードが当たる - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KSWZHZlRSMnByYmNFd1diYkpKNGJwalRBTzB5aFc0XzVFeEg2N3lSSnZlTTBoU3BDQldlVzBBT2RZV1RHRlZRLVotV05idXJKU1lHVXppZVROREEwS3VmZXkwVEp4X0tkbTNmR3hFQlV0QQ?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -172,6 +211,19 @@
       "source": "Google ニュース"
     },
     {
+      "id": "rss-bf168716727742bdaf",
+      "title": "ほっともっと、JTBギフトカード10万円分などが当たる「冬の旅プレゼントキャンペーン」実施（グルメ Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNDBGQ00tWlh0WElYVjRzYS04VEJtOEgxOElldFRaNGZFYUd0c25zaE9jOVAyZ0prcXdoZC0yeHlkQ19FeGdiMGpGbzlxYmI1d1NuRkRDcFV5TkhRZnBlSkdRME9Wbk8tZ0l2NTNOMWFlR0tnRmlYUUJLN1ItY2M?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-18",
+      "source": "Google ニュース"
+    },
+    {
       "id": "rss-c27e836bec04f3bc78",
       "title": "『軒轅剣三 雲と山の彼方』コラボ開催を記念し500円分の「えらべるPayⓇ」が当たるプレゼントキャンペーンを開催！ - コーエーテクモゲームス",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JSXRQVHhVU1JUM0hGNXR3NHNPWGV4Und6djFwS1BialAzVkViYUQwX1BKbHhnakpfUGxwbEpWaTlUZHZLdnhwTU40SjhxMXdfOVlieA?oc=5",
@@ -182,32 +234,6 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-11-18",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-dac5c97379fd4ee29c",
-      "title": "ほっともっと、JTBギフトカード10万円分などが当たる「冬の旅プレゼントキャンペーン」実施 - グルメ Watch",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52MHZSOW40Wnl6b3FEcmxpdjNnUUo4U3VMUnJ3T2VUNDRCb0FTZEF5NXF4RjV5Q2ZlTFVvYUJJbmYzdGpGam9rb0xiVWdoZUQwTXBFZklVbW5fUldoRU9tTDJEVVlmdUZXSlE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 105,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-11-18",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-3a1f1aa060ee5794e8",
-      "title": "【抽選でアマゾンギフトカード当たる！】#uniqueotaフォトキャンペーン2026開催中！ - 大田区",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakhLSThwNkhGU3otY3ZqbURvTmV0ejVwczdDVXBDVTBIeVJTeThVblFIZW5xandjdDc0NnNGdkpZbjlnbmU2MWl0Zy1OWkIxeFJfVExNYWJVZzR6RDktcUNkV1NHRE1XdlBUWlFXclUyd2hxbmloblh6N25MZVExYlJLTVNZaDhCUW1v?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 105,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-11-17",
       "source": "Google ニュース"
     },
     {
@@ -250,9 +276,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-6a8bbd84941c79242a",
-      "title": "【11/18〜11/23】抽選で100名様に選手オリジナルQUOカードが当たる！投票キャンペーン - netkeirin",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N3NQakxmQnU5TDFsYkIxb2hCanh6X0Z2aDg1aGRVZ293RHNBNXFGM0ZRUWUwZXNBMnpURF9kUjRLRU83RkRydWc5OFBkbE56LTBXcjFZbncxTl9KRElPaTJLWQ?oc=5",
+      "id": "rss-f7c48355bdbd8baaf0",
+      "title": "【アニメ！アニメ！読者アンケート開催】抽選でAmazonギフトカードをプレゼント！ 1枚目の写真・画像 - 超！アニメディア",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDU1TUt0M0ljUmF1bVJ6ZGlNR0d5TnRCMnRGQ0ZyOGwxZkFlbjJKSmxqNEYzS05kNjJDQjBPY0pnNk45MDZmbkZJMUgtZjd3Uzd3Vm5LT0xfYWl4QUg2dEdOYzE1QkxoS0c5UmNodWw4MFk?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -276,19 +302,6 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-6826518d7bf3b14598",
-      "title": "【アニメ！アニメ！読者アンケート開催】抽選でAmazonギフトカードをプレゼント！ 1枚目の写真・画像 - アニメ！アニメ！",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY3B4cExqZnBIT0tCTmpqSzIwMjg2SFduVG8zWmc2NzFFQURrQ0RDS0JNRVhmcXRGdXlMZVROZDhzSG5oMi1US3dDZUJGUGo1TkpDcGIxRjRkTThOQXRJb3lRcE83RVR6Q05pVFNGYlc?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 105,
-      "registration": "未確認（応募先で確認）",
-      "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-11-17",
-      "source": "Google ニュース"
-    },
-    {
       "id": "rss-3b867b9983241cb2b3",
       "title": "「KRUPS by T-fal」上陸記念キャンペーンで「QUOカードPay」をプレゼント - kakaku.com",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DT05Fam9vYVFvbUJYYlFJNUFqX0lpeVdkdWNJRW5qbVBXdTZfTW9HTHktMDNSVjFQNkJESFo2VUM5WkNYdzBGY1psRm5rc0hnYml1YnFoS2VTaU05NFBCSVBGWnprN2JFc01aMlZB?oc=5",
@@ -302,9 +315,35 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-f7c48355bdbd8baaf0",
-      "title": "【アニメ！アニメ！読者アンケート開催】抽選でAmazonギフトカードをプレゼント！ 1枚目の写真・画像 - 超！アニメディア",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FUDU1TUt0M0ljUmF1bVJ6ZGlNR0d5TnRCMnRGQ0ZyOGwxZkFlbjJKSmxqNEYzS05kNjJDQjBPY0pnNk45MDZmbkZJMUgtZjd3Uzd3Vm5LT0xfYWl4QUg2dEdOYzE1QkxoS0c5UmNodWw4MFk?oc=5",
+      "id": "rss-3a1f1aa060ee5794e8",
+      "title": "【抽選でアマゾンギフトカード当たる！】#uniqueotaフォトキャンペーン2026開催中！ - 大田区",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakhLSThwNkhGU3otY3ZqbURvTmV0ejVwczdDVXBDVTBIeVJTeThVblFIZW5xandjdDc0NnNGdkpZbjlnbmU2MWl0Zy1OWkIxeFJfVExNYWJVZzR6RDktcUNkV1NHRE1XdlBUWlFXclUyd2hxbmloblh6N25MZVExYlJLTVNZaDhCUW1v?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-6a8bbd84941c79242a",
+      "title": "【11/18〜11/23】抽選で100名様に選手オリジナルQUOカードが当たる！投票キャンペーン - netkeirin",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95N3NQakxmQnU5TDFsYkIxb2hCanh6X0Z2aDg1aGRVZ293RHNBNXFGM0ZRUWUwZXNBMnpURF9kUjRLRU83RkRydWc5OFBkbE56LTBXcjFZbncxTl9KRElPaTJLWQ?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "ギフト券",
+      "priority": 105,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-17",
+      "source": "Google ニュース"
+    },
+    {
+      "id": "rss-6826518d7bf3b14598",
+      "title": "【アニメ！アニメ！読者アンケート開催】抽選でAmazonギフトカードをプレゼント！ 1枚目の写真・画像 - アニメ！アニメ！",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tY3B4cExqZnBIT0tCTmpqSzIwMjg2SFduVG8zWmc2NzFFQURrQ0RDS0JNRVhmcXRGdXlMZVROZDhzSG5oMi1US3dDZUJGUGo1TkpDcGIxRjRkTThOQXRJb3lRcE83RVR6Q05pVFNGYlc?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "ギフト券",
       "priority": 105,
@@ -1238,22 +1277,22 @@
       "source": "PR TIMES"
     },
     {
-      "id": "rss-9dcea9e120ace51199",
-      "title": "東京立正短期大学 オープンキャンパスギフトカード抽選会【2026/10/25】 - YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFByTHVhalAwMl9tOVhrYlRRS0JMRXFvSDhlYkdvS0RpNklwLUFqS0o0UGtRWmFSWEpJelBtS0p2T0RGQQ?oc=5",
+      "id": "rss-bcf3e9f127a6913eda",
+      "title": "【AGM PAD P5】11月27日より予約販売開始！新型8インチタブレットが当たるXプレゼントキャンペーンを開催 - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80b2NWN3lCSmowXzdHUWVQajdJZ29NclhqTEt5QXJETnJfTmRhempEa3lMMEctVlVoc0k2MVd6VWVqU2JCUl9PZFN5eVY1VGdnaUNqMkdRM0JneVpFMzdFSUtTMm16TEZVWjVmRWVCT0ZjRzRQeEE?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 105,
+      "category": "家電・デジタル",
+      "priority": 100,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-25",
+      "createdAt": "2026-11-25",
       "source": "Google ニュース"
     },
     {
-      "id": "rss-aea7c82098fdee3a5c",
-      "title": "スマホケース専門店「DeCOVER（ディアカバー）」、理想のスマホケースを聞くアンケートを11月30日まで実施。回答者全員に500円OFFクーポンをプレゼント",
-      "url": "https://prtimes.jp/main/html/rd/p/000000006.000192364.html",
+      "id": "rss-45b890a80846e0c315",
+      "title": "ダイソン、ナノケア、プロジェクター当たる! 「家電大賞 2026-2027」投票開始! - ｄメニューニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2hTT3AxbU5MSE1PX3pFOVRLdDc2ckl3d2NqSW1LTXpMX090N2tPWXgyQ01KZ0dFNkdxb0hWNE1qSVhSUERPc01QdGc1b1dRQWZDSnBIcFJLMWhVaFdWTi1XdGlreTV2MFAtd2JibktnM0tseEdQT01ac2lhVnZwdHgzY0VYTzdN0gGIAUFVX3lxTFB3aFNPcDFtTkxITU9fekU5VEt0NzZySXd3Y2pJbUtNekxfT3Q3a09ZeDJDTUpnR0U2R3FvSFY0TWpJWFJQRE9zTVB0ZzVvV1FBZkNKcEhwUksxaFVoV1ZOLVd0aWt5NXYwUC13YmJuS2czS2x4R1BPTVpzaWFWdnB0eDNjRVhPN00?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "家電・デジタル",
       "priority": 100,
@@ -1261,7 +1300,7 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-11-24",
-      "source": "PR TIMES"
+      "source": "Google ニュース"
     },
     {
       "id": "rss-af54c78acec1d073cb",
@@ -1277,9 +1316,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-45b890a80846e0c315",
-      "title": "ダイソン、ナノケア、プロジェクター当たる! 「家電大賞 2026-2027」投票開始! - ｄメニューニュース",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd2hTT3AxbU5MSE1PX3pFOVRLdDc2ckl3d2NqSW1LTXpMX090N2tPWXgyQ01KZ0dFNkdxb0hWNE1qSVhSUERPc01QdGc1b1dRQWZDSnBIcFJLMWhVaFdWTi1XdGlreTV2MFAtd2JibktnM0tseEdQT01ac2lhVnZwdHgzY0VYTzdN0gGIAUFVX3lxTFB3aFNPcDFtTkxITU9fekU5VEt0NzZySXd3Y2pJbUtNekxfT3Q3a09ZeDJDTUpnR0U2R3FvSFY0TWpJWFJQRE9zTVB0ZzVvV1FBZkNKcEhwUksxaFVoV1ZOLVd0aWt5NXYwUC13YmJuS2czS2x4R1BPTVpzaWFWdnB0eDNjRVhPN00?oc=5",
+      "id": "rss-aea7c82098fdee3a5c",
+      "title": "スマホケース専門店「DeCOVER（ディアカバー）」、理想のスマホケースを聞くアンケートを11月30日まで実施。回答者全員に500円OFFクーポンをプレゼント",
+      "url": "https://prtimes.jp/main/html/rd/p/000000006.000192364.html",
       "organizer": "案内記事（主催者は要確認）",
       "category": "家電・デジタル",
       "priority": 100,
@@ -1287,7 +1326,7 @@
       "method": "unknown",
       "deadline": null,
       "createdAt": "2026-11-24",
-      "source": "Google ニュース"
+      "source": "PR TIMES"
     },
     {
       "id": "rss-ba690768b3cce57d4f",
@@ -1381,9 +1420,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-ac088141cf8debeff0",
-      "title": "【2026年】プレゼントに最適な美容家電のおすすめ14選。LDKが美顔器など女性向け人気商品を紹介 - 360LiFE",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWGNxOEVLa1Utamh4ME1OTF84UUlLV1o0d2o4RHJCUzFTSjY1ZWlScUJwOEFZbnlPb3d2SFZ1RTdMel9VMTRDYUZzRkdWZFdmWGlVNlJCSW03WURp?oc=5",
+      "id": "rss-ebab68a6e9e730aad1",
+      "title": "野口健氏、富士山遭難の「1200万円懸賞金」を厳しく批判 「二次遭難のリスクを煽る」「迷惑の上塗り」 - 千葉テレビ放送株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80dFFkRVFQOElYeVNDeFFFd3duV1lDRGc4eU1nd2ttR0xqcVFjOTR4ZXFybHFwOURHUUJ5R2VPcU52RGhKTEN4WjdKWjk3Z0dZSEo3Mk9najZocl9nQTQw?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "家電・デジタル",
       "priority": 100,
@@ -1394,9 +1433,9 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-ebab68a6e9e730aad1",
-      "title": "野口健氏、富士山遭難の「1200万円懸賞金」を厳しく批判 「二次遭難のリスクを煽る」「迷惑の上塗り」 - 千葉テレビ放送株式会社",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80dFFkRVFQOElYeVNDeFFFd3duV1lDRGc4eU1nd2ttR0xqcVFjOTR4ZXFybHFwOURHUUJ5R2VPcU52RGhKTEN4WjdKWjk3Z0dZSEo3Mk9najZocl9nQTQw?oc=5",
+      "id": "rss-ac088141cf8debeff0",
+      "title": "【2026年】プレゼントに最適な美容家電のおすすめ14選。LDKが美顔器など女性向け人気商品を紹介 - 360LiFE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mWGNxOEVLa1Utamh4ME1OTF84UUlLV1o0d2o4RHJCUzFTSjY1ZWlScUJwOEFZbnlPb3d2SFZ1RTdMel9VMTRDYUZzRkdWZFdmWGlVNlJCSW03WURp?oc=5",
       "organizer": "案内記事（主催者は要確認）",
       "category": "家電・デジタル",
       "priority": 100,
@@ -2109,16 +2148,16 @@
       "source": "Google ニュース"
     },
     {
-      "id": "rss-0af0d923e3a2ed9b62",
-      "title": "オランダの元有名テレビ司会者がタイで消息不明に！家族が懸賞金10万バーツで情報提供呼びかけ - タイニュース・クロスボンバー",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GR2J0clEyREl0dEZVZWJFWHF6WTNzSFRTd2F1WFFRbzR1bkZlNDNiVlJUbTN6RGhvSDk4b3pPckFfZzhoc01PbHFHYXZTSnhHVm9Jb0NQbUV2UQ?oc=5",
+      "id": "rss-b61da027fd6e05992e",
+      "title": "自販機でフィナンシェを見つけて、撮って、投稿する「フォチェッタ自販機を探せ！」キャンペーンを開始 抽選で50名にスイーツをプレゼント、1月31日まで - Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XNjY3a1RtV1ZhOHp4RnRHbnVJdjNlZHNVLVdRb2tISkJjU0tyYTVHZlVkR1VqdHh4NmNjRWZKX3RreUEtZWxNUGtlVllZZ1N5bS1UNnp2enQtN3pFZWN2Yw?oc=5",
       "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 100,
+      "category": "食品・飲料",
+      "priority": 95,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
       "deadline": null,
-      "createdAt": "2026-10-25",
+      "createdAt": "2026-11-25",
       "source": "Google ニュース"
     },
     {
@@ -2512,6 +2551,19 @@
       "source": "Google ニュース"
     },
     {
+      "id": "rss-cd98db5d5d8acfe43e",
+      "title": "【創業88周年】東京・自由が丘発祥「亀屋万年堂」『12月18日はナボナの日』オリジナル卓上カレンダープレゼントキャンペーン実施！ - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKM18xaThESWdUM0hWS2JmT3R5MFp6RWZBWlU0em9lY201SzVfVjdLb3RnVG9wZTY1RmVQWWJZZTl2UVBfeWpYcGpEcERBZ0xTZXBJWHowZDI0ZERvVzNxZUdB?oc=5",
+      "organizer": "案内記事（主催者は要確認）",
+      "category": "日用品",
+      "priority": 85,
+      "registration": "未確認（応募先で確認）",
+      "method": "unknown",
+      "deadline": null,
+      "createdAt": "2026-11-24",
+      "source": "Google ニュース"
+    },
+    {
       "id": "rss-1fec3455ed258538e8",
       "title": "【創業88周年】東京・自由が丘発祥「亀屋万年堂」『12月18日はナボナの日』オリジナル卓上カレンダープレゼントキャンペーン実施！ - アットプレス",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBmQ2JZUzZHaHRlMEd2NDZKbnVXbVlfaVZ1V204bXc3ZFlQTzQxamlqWHM2WjFYVDlWZkM4VXRjSG90a21XaWJvZzd4S0tNUnM?oc=5",
@@ -2546,58 +2598,6 @@
       "priority": 85,
       "registration": "未確認（応募先で確認）",
       "method": "unknown",
-      "deadline": null,
-      "createdAt": "2026-11-20",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-58d642020b1a1fbccd",
-      "title": "[セブン-イレブン] セブン‐イレブンでQUOカードを購入したレシートで応募！ 抽選で1万名様にQUOカードPay500円分をその場でプレゼント！| 2026年11月23日（月・祝）まで - Prepaid mania",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRGg4UGt3c1B2eVhVdS1jOXdzNkpDRHNCOWctc3hQcGVSQnVHTWt1RDlrbjNMWkxsLVhvVkQySjlLY3A3eEUyNHIxaW95ZGZLZkNKM25saDM3X2tMV3RXc3RWU21jTGl4WmRSdm5WdkMxT0U4TE5XaFVTX0FvOUJVOGNld2dZeWMyZ1ptVlJHTWRjUUtnc2hWN0tYWHZzWER3bHdUVUhfazFnQ3lZbWV5UDlNaEZHeXpqUmh2WHpQMFljTFpBaWRRUw?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 80,
-      "registration": "未確認（応募先で確認）",
-      "method": "other",
-      "deadline": null,
-      "createdAt": "2026-11-10",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-84ee226305e8450417",
-      "title": "絵本のイラストとメッセージをタブレットでも！Gakken『おしえて！サンリオキャラクターズ』ネット書店購入特典「オリジナル壁紙」プレゼントキャンペーン - Dtimes",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aZnZQWVVuaUUwT1JBWmRIQ1JBTW84ZTlrOTN1cks5b3pzdTdqcHVQa0RHSDE2MnJRcjVvNXdxcWZtY2JnTUE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "家電・デジタル",
-      "priority": 75,
-      "registration": "未確認（応募先で確認）",
-      "method": "other",
-      "deadline": null,
-      "createdAt": "2026-11-21",
-      "source": "Google ニュース"
-    },
-    {
-      "id": "rss-9e37242ed87b7ece67",
-      "title": "Amazonギフト券500円分がフォロー&ポストで合計400名にその場で当たる。",
-      "url": "https://gekiyasu-lab.net/benza_jp-1330888837527080960/",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 70,
-      "registration": "未確認（応募先で確認）",
-      "method": "sns",
-      "deadline": null,
-      "createdAt": "2026-11-23",
-      "source": "激安らぼ"
-    },
-    {
-      "id": "rss-7f5b856794abccab67",
-      "title": "【11/23まで】フォロー＆リポストでAmazonギフトカード1,000円分が当たる！「アイコニット」秋のフォロリポ祭 第2弾開催 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yU0dHTjZFTWs2bXJDTktLa1VjQ3E5YlV6LTI2amdFQ1RHdXM0blNGMndGa1FJdEd6RWptLTBvWnZraTgxTFhlQ0xaRE0ycmh0SDhTcXpxZS1wSnBwZ09jZ2FqaEFFLU9pTEE?oc=5",
-      "organizer": "案内記事（主催者は要確認）",
-      "category": "ギフト券",
-      "priority": 70,
-      "registration": "未確認（応募先で確認）",
-      "method": "sns",
       "deadline": null,
       "createdAt": "2026-11-20",
       "source": "Google ニュース"
